@@ -1,0 +1,4860 @@
+[
+  {
+    "Code": "A-A",
+    "Site": "Alma Ata",
+    "ADM": "KAZ",
+    "Latitude": "43N17",
+    "Longitude": "077E00"
+  },
+  {
+    "Code": "AAR",
+    "Site": "Alphen aan den Rijn",
+    "ADM": "HOL",
+    "Latitude": "52N08",
+    "Longitude": "004E38"
+  },
+  {
+    "Code": "ABG",
+    "Site": "Abu Ghraib (Bagdadh)",
+    "ADM": "IRQ",
+    "Latitude": "33N19",
+    "Longitude": "044E15"
+  },
+  {
+    "Code": "ABH",
+    "Site": "Abu Hayan",
+    "ADM": "BHR",
+    "Latitude": "26N02",
+    "Longitude": "050E37"
+  },
+  {
+    "Code": "ABJ",
+    "Site": "Abidjan",
+    "ADM": "CTI",
+    "Latitude": "05N21",
+    "Longitude": "003W57"
+  },
+  {
+    "Code": "ABS",
+    "Site": "Abis",
+    "ADM": "EGY",
+    "Latitude": "31N10",
+    "Longitude": "030E05"
+  },
+  {
+    "Code": "ABU",
+    "Site": "Abu Dhabi",
+    "ADM": "UAE",
+    "Latitude": "24N23",
+    "Longitude": "054E17"
+  },
+  {
+    "Code": "ABZ",
+    "Site": "Abu zaabal",
+    "ADM": "EGY",
+    "Latitude": "30N16",
+    "Longitude": "031E22"
+  },
+  {
+    "Code": "ACC",
+    "Site": "Accra",
+    "ADM": "GHA",
+    "Latitude": "05N31",
+    "Longitude": "000W10"
+  },
+  {
+    "Code": "ACH",
+    "Site": "Achkabad",
+    "ADM": "TKM",
+    "Latitude": "37N57",
+    "Longitude": "058E23"
+  },
+  {
+    "Code": "ADD",
+    "Site": "Addis Ababa",
+    "ADM": "ETH",
+    "Latitude": "08N58",
+    "Longitude": "038E43"
+  },
+  {
+    "Code": "ADH",
+    "Site": "Alpes d Huez",
+    "ADM": "F",
+    "Latitude": "45N09",
+    "Longitude": "006E01"
+  },
+  {
+    "Code": "ADR",
+    "Site": "Adra",
+    "ADM": "SYR",
+    "Latitude": "33N27",
+    "Longitude": "036E30"
+  },
+  {
+    "Code": "AGT",
+    "Site": "Agat, Guam",
+    "ADM": "USA",
+    "Latitude": "13N20",
+    "Longitude": "144E39"
+  },
+  {
+    "Code": "AHW",
+    "Site": "Ahwaz",
+    "ADM": "IRN",
+    "Latitude": "31N20",
+    "Longitude": "048E40"
+  },
+  {
+    "Code": "AIA",
+    "Site": "Anguilla",
+    "ADM": "G",
+    "Latitude": "18N13",
+    "Longitude": "063W01"
+  },
+  {
+    "Code": "AIJ",
+    "Site": "Denton, TX",
+    "ADM": "USA",
+    "Latitude": "33N13",
+    "Longitude": "096W52"
+  },
+  {
+    "Code": "AIZ",
+    "Site": "Aizawl",
+    "ADM": "IND",
+    "Latitude": "23N43",
+    "Longitude": "092E43"
+  },
+  {
+    "Code": "AKA",
+    "Site": "Al Karanah",
+    "ADM": "JOR",
+    "Latitude": "31N44",
+    "Longitude": "036E26"
+  },
+  {
+    "Code": "ALF",
+    "Site": "Al-Fatihab",
+    "ADM": "SDN",
+    "Latitude": "15N30",
+    "Longitude": "032E28"
+  },
+  {
+    "Code": "ALG",
+    "Site": "Aligarh",
+    "ADM": "IND",
+    "Latitude": "28N00",
+    "Longitude": "078E06"
+  },
+  {
+    "Code": "ALH",
+    "Site": "Al Hiswah",
+    "ADM": "YEM",
+    "Latitude": "12N50",
+    "Longitude": "045E02"
+  },
+  {
+    "Code": "ALI",
+    "Site": "Alice Springs",
+    "ADM": "AUS",
+    "Latitude": "23S42",
+    "Longitude": "133E53"
+  },
+  {
+    "Code": "ALK",
+    "Site": "Al khaisah",
+    "ADM": "QAT",
+    "Latitude": "25N25",
+    "Longitude": "051E25"
+  },
+  {
+    "Code": "ALO",
+    "Site": "Alotau",
+    "ADM": "PNG",
+    "Latitude": "10S18",
+    "Longitude": "150E28"
+  },
+  {
+    "Code": "AMB",
+    "Site": "Ambon",
+    "ADM": "INS",
+    "Latitude": "03S42",
+    "Longitude": "128E05"
+  },
+  {
+    "Code": "AMM",
+    "Site": "Amman",
+    "ADM": "JOR",
+    "Latitude": "31N57",
+    "Longitude": "035E56"
+  },
+  {
+    "Code": "APA",
+    "Site": "Aparecida",
+    "ADM": "B",
+    "Latitude": "23S00",
+    "Longitude": "045W00"
+  },
+  {
+    "Code": "ARA",
+    "Site": "Arauca",
+    "ADM": "CLM",
+    "Latitude": "07N04",
+    "Longitude": "070W41"
+  },
+  {
+    "Code": "ARM",
+    "Site": "Armavir",
+    "ADM": "RUS",
+    "Latitude": "45N00",
+    "Longitude": "040E49"
+  },
+  {
+    "Code": "ARQ",
+    "Site": "Arequipa",
+    "ADM": "PRU",
+    "Latitude": "16S25",
+    "Longitude": "071W32"
+  },
+  {
+    "Code": "ASC",
+    "Site": "Ascension",
+    "ADM": "G",
+    "Latitude": "07S54",
+    "Longitude": "014W23"
+  },
+  {
+    "Code": "ASU",
+    "Site": "Asuncion",
+    "ADM": "PRG",
+    "Latitude": "25S19",
+    "Longitude": "057W29"
+  },
+  {
+    "Code": "ATG",
+    "Site": "Antigua",
+    "ADM": "ATG",
+    "Latitude": "17N06",
+    "Longitude": "061W48"
+  },
+  {
+    "Code": "AVL",
+    "Site": "Avlis",
+    "ADM": "GRC",
+    "Latitude": "38N23",
+    "Longitude": "023E36"
+  },
+  {
+    "Code": "AVO",
+    "Site": "Avoriaz Morzine",
+    "ADM": "F",
+    "Latitude": "46N11",
+    "Longitude": "006E46"
+  },
+  {
+    "Code": "B-A",
+    "Site": "Banda Aceh",
+    "ADM": "INS",
+    "Latitude": "05N30",
+    "Longitude": "095E22"
+  },
+  {
+    "Code": "BAB",
+    "Site": "Babel",
+    "ADM": "IRQ",
+    "Latitude": "32N30",
+    "Longitude": "044E30"
+  },
+  {
+    "Code": "BAC",
+    "Site": "Babice",
+    "ADM": "POL",
+    "Latitude": "52N15",
+    "Longitude": "020E50"
+  },
+  {
+    "Code": "BAF",
+    "Site": "Bafoussam",
+    "ADM": "CME",
+    "Latitude": "05N28",
+    "Longitude": "010E24"
+  },
+  {
+    "Code": "BAI",
+    "Site": "Bairiki",
+    "ADM": "KIR",
+    "Latitude": "01N21",
+    "Longitude": "172E56"
+  },
+  {
+    "Code": "BAK",
+    "Site": "Baku",
+    "ADM": "AZE",
+    "Latitude": "40N24",
+    "Longitude": "049E45"
+  },
+  {
+    "Code": "BAN",
+    "Site": "Bangkok",
+    "ADM": "THA",
+    "Latitude": "13N47",
+    "Longitude": "100E30"
+  },
+  {
+    "Code": "BAO",
+    "Site": "Baoding",
+    "ADM": "CHN",
+    "Latitude": "38N39",
+    "Longitude": "115E44"
+  },
+  {
+    "Code": "BAT",
+    "Site": "Bata",
+    "ADM": "GNE",
+    "Latitude": "01N48",
+    "Longitude": "009E46"
+  },
+  {
+    "Code": "BAY",
+    "Site": "Bayenhaote",
+    "ADM": "CHN",
+    "Latitude": "38N58",
+    "Longitude": "105E35"
+  },
+  {
+    "Code": "BBY",
+    "Site": "Bombay",
+    "ADM": "IND",
+    "Latitude": "19N11",
+    "Longitude": "072E49"
+  },
+  {
+    "Code": "BCQ",
+    "Site": "Monticello, ME",
+    "ADM": "USA",
+    "Latitude": "46N20",
+    "Longitude": "067W50"
+  },
+  {
+    "Code": "BDD",
+    "Site": "Bandundu",
+    "ADM": "COD",
+    "Latitude": "03S18",
+    "Longitude": "017E21"
+  },
+  {
+    "Code": "BDG",
+    "Site": "Bandung",
+    "ADM": "INS",
+    "Latitude": "06S53",
+    "Longitude": "107E37"
+  },
+  {
+    "Code": "BDN",
+    "Site": "Bandjarmasin",
+    "ADM": "INS",
+    "Latitude": "03S22",
+    "Longitude": "114E40"
+  },
+  {
+    "Code": "BEC",
+    "Site": "Bechar",
+    "ADM": "ALG",
+    "Latitude": "31N34",
+    "Longitude": "002W21"
+  },
+  {
+    "Code": "BEI",
+    "Site": "Beijing",
+    "ADM": "CHN",
+    "Latitude": "39N57",
+    "Longitude": "116E27"
+  },
+  {
+    "Code": "BEL",
+    "Site": "Belo Horizonte",
+    "ADM": "B",
+    "Latitude": "19S54",
+    "Longitude": "043W54"
+  },
+  {
+    "Code": "BEN",
+    "Site": "Benkule",
+    "ADM": "INS",
+    "Latitude": "02S44",
+    "Longitude": "102E18"
+  },
+  {
+    "Code": "BEO",
+    "Site": "Beograd",
+    "ADM": "SRB",
+    "Latitude": "44N34",
+    "Longitude": "020E09"
+  },
+  {
+    "Code": "BER",
+    "Site": "Bertoua",
+    "ADM": "CME",
+    "Latitude": "04N34",
+    "Longitude": "013E43"
+  },
+  {
+    "Code": "BGA",
+    "Site": "Benguela",
+    "ADM": "AGL",
+    "Latitude": "12S35",
+    "Longitude": "013E25"
+  },
+  {
+    "Code": "BGL",
+    "Site": "Bangalore",
+    "ADM": "IND",
+    "Latitude": "13N14",
+    "Longitude": "077E13"
+  },
+  {
+    "Code": "BGZ",
+    "Site": "Benghazi",
+    "ADM": "LBY",
+    "Latitude": "32N08",
+    "Longitude": "020E04"
+  },
+  {
+    "Code": "BHO",
+    "Site": "Bhopal",
+    "ADM": "IND",
+    "Latitude": "23N10",
+    "Longitude": "077E38"
+  },
+  {
+    "Code": "BI",
+    "Site": "Bichkek",
+    "ADM": "KGZ",
+    "Latitude": "42N54",
+    "Longitude": "074E37"
+  },
+  {
+    "Code": "BIA",
+    "Site": "Biak",
+    "ADM": "INS",
+    "Latitude": "01S00",
+    "Longitude": "135E30"
+  },
+  {
+    "Code": "BIB",
+    "Site": "Biblis",
+    "ADM": "D",
+    "Latitude": "49N41",
+    "Longitude": "008E29"
+  },
+  {
+    "Code": "BIJ",
+    "Site": "Bijeljina",
+    "ADM": "BIH",
+    "Latitude": "44N41",
+    "Longitude": "019E09"
+  },
+  {
+    "Code": "BJI",
+    "Site": "Baoji",
+    "ADM": "CHN",
+    "Latitude": "34N30",
+    "Longitude": "107E10"
+  },
+  {
+    "Code": "BKA",
+    "Site": "Buka",
+    "ADM": "PNG",
+    "Latitude": "05S25",
+    "Longitude": "154E40"
+  },
+  {
+    "Code": "BKO",
+    "Site": "Bamako",
+    "ADM": "MLI",
+    "Latitude": "12N39",
+    "Longitude": "008W01"
+  },
+  {
+    "Code": "BLA",
+    "Site": "Blantyre",
+    "ADM": "MWI",
+    "Latitude": "15S42",
+    "Longitude": "035E02"
+  },
+  {
+    "Code": "BLG",
+    "Site": "Blagovechtchen",
+    "ADM": "RUS",
+    "Latitude": "50N16",
+    "Longitude": "127E30"
+  },
+  {
+    "Code": "BLN",
+    "Site": "Berlin (Deutschlandradio)",
+    "ADM": "D",
+    "Latitude": "52N30",
+    "Longitude": "013E20"
+  },
+  {
+    "Code": "BNG",
+    "Site": "Bangui",
+    "ADM": "CAF",
+    "Latitude": "04N21",
+    "Longitude": "018E35"
+  },
+  {
+    "Code": "BOA",
+    "Site": "Boa Vista",
+    "ADM": "B",
+    "Latitude": "02N51",
+    "Longitude": "060W43"
+  },
+  {
+    "Code": "BOC",
+    "Site": "Bocaue",
+    "ADM": "PHL",
+    "Latitude": "14N48",
+    "Longitude": "120E55"
+  },
+  {
+    "Code": "BOG",
+    "Site": "Bogota",
+    "ADM": "CLM",
+    "Latitude": "04N36",
+    "Longitude": "074W04"
+  },
+  {
+    "Code": "BOH",
+    "Site": "Newport",
+    "ADM": "USA",
+    "Latitude": "34N47",
+    "Longitude": "076W56"
+  },
+  {
+    "Code": "BON",
+    "Site": "Bonaire",
+    "ADM": "HOL",
+    "Latitude": "12N12",
+    "Longitude": "068W18"
+  },
+  {
+    "Code": "BOT",
+    "Site": "Moepeng Hill",
+    "ADM": "BOT",
+    "Latitude": "21S57",
+    "Longitude": "027E39"
+  },
+  {
+    "Code": "BOU",
+    "Site": "Bouchaoui",
+    "ADM": "ALG",
+    "Latitude": "36N44",
+    "Longitude": "002E53"
+  },
+  {
+    "Code": "BR",
+    "Site": "Brest",
+    "ADM": "BLR",
+    "Latitude": "52N20",
+    "Longitude": "023E35"
+  },
+  {
+    "Code": "BRA",
+    "Site": "Brasilia",
+    "ADM": "B",
+    "Latitude": "15S51",
+    "Longitude": "047W56"
+  },
+  {
+    "Code": "BRE",
+    "Site": "Bremen (RB/SFB)",
+    "ADM": "D",
+    "Latitude": "53N05",
+    "Longitude": "008E50"
+  },
+  {
+    "Code": "BRG",
+    "Site": "Bramming",
+    "ADM": "DNK",
+    "Latitude": "55N29",
+    "Longitude": "008E39"
+  },
+  {
+    "Code": "BRI",
+    "Site": "Brisbane",
+    "ADM": "AUS",
+    "Latitude": "27S19",
+    "Longitude": "153E01"
+  },
+  {
+    "Code": "BRN",
+    "Site": "Brandon",
+    "ADM": "AUS",
+    "Latitude": "19S31",
+    "Longitude": "147E20"
+  },
+  {
+    "Code": "BRT",
+    "Site": "Beirut",
+    "ADM": "LBN",
+    "Latitude": "33N53",
+    "Longitude": "035E30"
+  },
+  {
+    "Code": "BRZ",
+    "Site": "Brazzaville",
+    "ADM": "COG",
+    "Latitude": "04S15",
+    "Longitude": "015E18"
+  },
+  {
+    "Code": "BUD",
+    "Site": "Budapest",
+    "ADM": "HNG",
+    "Latitude": "47N28",
+    "Longitude": "019E03"
+  },
+  {
+    "Code": "BUE",
+    "Site": "Buenos Aires",
+    "ADM": "ARG",
+    "Latitude": "34S36",
+    "Longitude": "058W22"
+  },
+  {
+    "Code": "BUK",
+    "Site": "Bukittinggi",
+    "ADM": "INS",
+    "Latitude": "00S18",
+    "Longitude": "100E22"
+  },
+  {
+    "Code": "BWW",
+    "Site": "Lebanon, TN",
+    "ADM": "USA",
+    "Latitude": "36N17",
+    "Longitude": "086W06"
+  },
+  {
+    "Code": "BY",
+    "Site": "Bethany, OH",
+    "ADM": "USA",
+    "Latitude": "39N21",
+    "Longitude": "084W21"
+  },
+  {
+    "Code": "CAB",
+    "Site": "Camboriu",
+    "ADM": "B",
+    "Latitude": "27S02",
+    "Longitude": "048W39"
+  },
+  {
+    "Code": "CAC",
+    "Site": "Cachoeira Paulista",
+    "ADM": "B",
+    "Latitude": "22S39",
+    "Longitude": "045W01"
+  },
+  {
+    "Code": "CAH",
+    "Site": "Changchun",
+    "ADM": "CHN",
+    "Latitude": "43N48",
+    "Longitude": "125E23"
+  },
+  {
+    "Code": "CAK",
+    "Site": "Cakirlar",
+    "ADM": "TUR",
+    "Latitude": "39N58",
+    "Longitude": "032E40"
+  },
+  {
+    "Code": "CAL",
+    "Site": "Calcutta",
+    "ADM": "IND",
+    "Latitude": "22N27",
+    "Longitude": "088E18"
+  },
+  {
+    "Code": "CAM",
+    "Site": "Campo Grande",
+    "ADM": "B",
+    "Latitude": "20S24",
+    "Longitude": "054W35"
+  },
+  {
+    "Code": "CAN",
+    "Site": "Cantho",
+    "ADM": "VTN",
+    "Latitude": "10N05",
+    "Longitude": "105E46"
+  },
+  {
+    "Code": "CAR",
+    "Site": "Carnarvon",
+    "ADM": "AUS",
+    "Latitude": "24S54",
+    "Longitude": "113E43"
+  },
+  {
+    "Code": "CCH",
+    "Site": "Chile Chico",
+    "ADM": "CHL",
+    "Latitude": "46S33",
+    "Longitude": "071W42"
+  },
+  {
+    "Code": "CDA",
+    "Site": "Cape Daguliar",
+    "ADM": "CHN",
+    "Latitude": "22N13",
+    "Longitude": "114E15"
+  },
+  {
+    "Code": "CDM",
+    "Site": "Cd. Mante",
+    "ADM": "MEX",
+    "Latitude": "22N44",
+    "Longitude": "098W56"
+  },
+  {
+    "Code": "CDU",
+    "Site": "Chengdu",
+    "ADM": "CHN",
+    "Latitude": "30N42",
+    "Longitude": "104E00"
+  },
+  {
+    "Code": "CER",
+    "Site": "Cerrik",
+    "ADM": "ALB",
+    "Latitude": "41N00",
+    "Longitude": "020E00"
+  },
+  {
+    "Code": "CGY",
+    "Site": "Calgary, AB",
+    "ADM": "CAN",
+    "Latitude": "50N54",
+    "Longitude": "113W52"
+  },
+  {
+    "Code": "CHA",
+    "Site": "Cahuita, Costa Rica",
+    "ADM": "CTR",
+    "Latitude": "09N45",
+    "Longitude": "082W54"
+  },
+  {
+    "Code": "CHC",
+    "Site": "ChunCheon",
+    "ADM": "KOR",
+    "Latitude": "37N56",
+    "Longitude": "127E46"
+  },
+  {
+    "Code": "CHE",
+    "Site": "Chengde",
+    "ADM": "CHN",
+    "Latitude": "40N58",
+    "Longitude": "117E35"
+  },
+  {
+    "Code": "CHI",
+    "Site": "Chihuahua",
+    "ADM": "MEX",
+    "Latitude": "28N34",
+    "Longitude": "106W02"
+  },
+  {
+    "Code": "CHT",
+    "Site": "Chatel",
+    "ADM": "F",
+    "Latitude": "46N14",
+    "Longitude": "006E50"
+  },
+  {
+    "Code": "CK2",
+    "Site": "Xuanmai",
+    "ADM": "VTN",
+    "Latitude": "20N43",
+    "Longitude": "105E33"
+  },
+  {
+    "Code": "CLM",
+    "Site": "Calama",
+    "ADM": "CHL",
+    "Latitude": "22S30",
+    "Longitude": "068W55"
+  },
+  {
+    "Code": "CLS",
+    "Site": "Caltanissetta",
+    "ADM": "I",
+    "Latitude": "37N30",
+    "Longitude": "014E04"
+  },
+  {
+    "Code": "CLZ",
+    "Site": "Calabozo",
+    "ADM": "VEN",
+    "Latitude": "10N30",
+    "Longitude": "066W52"
+  },
+  {
+    "Code": "CNI",
+    "Site": "Chennai",
+    "ADM": "IND",
+    "Latitude": "13N08",
+    "Longitude": "080E07"
+  },
+  {
+    "Code": "COA",
+    "Site": "Cochabamba",
+    "ADM": "BOL",
+    "Latitude": "17S20",
+    "Longitude": "066W20"
+  },
+  {
+    "Code": "COC",
+    "Site": "Concepcion CHL",
+    "ADM": "CHL",
+    "Latitude": "37S03",
+    "Longitude": "073W10"
+  },
+  {
+    "Code": "COI",
+    "Site": "Coihaique",
+    "ADM": "CHL",
+    "Latitude": "45S30",
+    "Longitude": "072W06"
+  },
+  {
+    "Code": "COL",
+    "Site": "Colombo",
+    "ADM": "CLN",
+    "Latitude": "06N54",
+    "Longitude": "079E48"
+  },
+  {
+    "Code": "COM",
+    "Site": "Comores",
+    "ADM": "COM",
+    "Latitude": "11S42",
+    "Longitude": "043E15"
+  },
+  {
+    "Code": "CON",
+    "Site": "Conakry",
+    "ADM": "GUI",
+    "Latitude": "09N32",
+    "Longitude": "013W40"
+  },
+  {
+    "Code": "COP",
+    "Site": "Concepcion PRG",
+    "ADM": "PRG",
+    "Latitude": "23S24",
+    "Longitude": "057W27"
+  },
+  {
+    "Code": "COT",
+    "Site": "Cotonou",
+    "ADM": "BEN",
+    "Latitude": "06N21",
+    "Longitude": "002E25"
+  },
+  {
+    "Code": "COY",
+    "Site": "Coyhaique",
+    "ADM": "CHL",
+    "Latitude": "45S24",
+    "Longitude": "072W43"
+  },
+  {
+    "Code": "CRI",
+    "Site": "Cariari",
+    "ADM": "CTR",
+    "Latitude": "10N00",
+    "Longitude": "083W30"
+  },
+  {
+    "Code": "CUR",
+    "Site": "Curitiba",
+    "ADM": "B",
+    "Latitude": "25S23",
+    "Longitude": "049W10"
+  },
+  {
+    "Code": "CUZ",
+    "Site": "Cuzco",
+    "ADM": "PRU",
+    "Latitude": "13S30",
+    "Longitude": "072W00"
+  },
+  {
+    "Code": "CYP",
+    "Site": "Limassol",
+    "ADM": "CYP",
+    "Latitude": "34N43",
+    "Longitude": "033E19"
+  },
+  {
+    "Code": "CZB",
+    "Site": "Clusaz Balme",
+    "ADM": "F",
+    "Latitude": "45N53",
+    "Longitude": "006E24"
+  },
+  {
+    "Code": "CZJ",
+    "Site": "Clusaz Jument",
+    "ADM": "F",
+    "Latitude": "45N54",
+    "Longitude": "006E28"
+  },
+  {
+    "Code": "DAK",
+    "Site": "Dakar",
+    "ADM": "SEN",
+    "Latitude": "14N39",
+    "Longitude": "017W26"
+  },
+  {
+    "Code": "DAL",
+    "Site": "Daclac",
+    "ADM": "VTN",
+    "Latitude": "12N41",
+    "Longitude": "108E03"
+  },
+  {
+    "Code": "DAR",
+    "Site": "Darwin",
+    "ADM": "AUS",
+    "Latitude": "12S25",
+    "Longitude": "136E37"
+  },
+  {
+    "Code": "DAT",
+    "Site": "Datteln",
+    "ADM": "D",
+    "Latitude": "51N39",
+    "Longitude": "007E20"
+  },
+  {
+    "Code": "DB",
+    "Site": "Duchanbe",
+    "ADM": "TJK",
+    "Latitude": "38N40",
+    "Longitude": "068E50"
+  },
+  {
+    "Code": "DBA",
+    "Site": "Dubai",
+    "ADM": "UAE",
+    "Latitude": "25N14",
+    "Longitude": "055E16"
+  },
+  {
+    "Code": "DEA",
+    "Site": "Deanovec",
+    "ADM": "HRV",
+    "Latitude": "45N41",
+    "Longitude": "016E27"
+  },
+  {
+    "Code": "DEL",
+    "Site": "Delhi",
+    "ADM": "IND",
+    "Latitude": "28N43",
+    "Longitude": "077E12"
+  },
+  {
+    "Code": "DEN",
+    "Site": "Denpasar",
+    "ADM": "INS",
+    "Latitude": "08S45",
+    "Longitude": "115E15"
+  },
+  {
+    "Code": "DES",
+    "Site": "Dar-es-Salaam",
+    "ADM": "TZA",
+    "Latitude": "06S50",
+    "Longitude": "039E14"
+  },
+  {
+    "Code": "DHA",
+    "Site": "Dhabayya",
+    "ADM": "UAE",
+    "Latitude": "24N11",
+    "Longitude": "054E14"
+  },
+  {
+    "Code": "DIL",
+    "Site": "Dili",
+    "ADM": "POR",
+    "Latitude": "08S33",
+    "Longitude": "125E35"
+  },
+  {
+    "Code": "DIO",
+    "Site": "Diosd",
+    "ADM": "HNG",
+    "Latitude": "47N25",
+    "Longitude": "018E57"
+  },
+  {
+    "Code": "DIR",
+    "Site": "Diriyya",
+    "ADM": "ARS",
+    "Latitude": "24N39",
+    "Longitude": "046E37"
+  },
+  {
+    "Code": "DJI",
+    "Site": "Djibouti",
+    "ADM": "DJI",
+    "Latitude": "11N35",
+    "Longitude": "043E05"
+  },
+  {
+    "Code": "DKA",
+    "Site": "Dhaka",
+    "ADM": "BGD",
+    "Latitude": "23N43",
+    "Longitude": "090E26"
+  },
+  {
+    "Code": "DL",
+    "Site": "Delano, CA",
+    "ADM": "USA",
+    "Latitude": "35N45",
+    "Longitude": "119W10"
+  },
+  {
+    "Code": "DOF",
+    "Site": "Dongfang",
+    "ADM": "CHN",
+    "Latitude": "18N54",
+    "Longitude": "108E39"
+  },
+  {
+    "Code": "DOL",
+    "Site": "Dole",
+    "ADM": "TZA",
+    "Latitude": "06S05",
+    "Longitude": "039E14"
+  },
+  {
+    "Code": "DON",
+    "Site": "Dondo",
+    "ADM": "MOZ",
+    "Latitude": "18S49",
+    "Longitude": "034E52"
+  },
+  {
+    "Code": "DOU",
+    "Site": "Douala",
+    "ADM": "CME",
+    "Latitude": "04N04",
+    "Longitude": "009E41"
+  },
+  {
+    "Code": "DOV",
+    "Site": "Doves",
+    "ADM": "LBN",
+    "Latitude": "33N20",
+    "Longitude": "035E30"
+  },
+  {
+    "Code": "DRU",
+    "Site": "Daru",
+    "ADM": "PNG",
+    "Latitude": "09S05",
+    "Longitude": "143E10"
+  },
+  {
+    "Code": "DRW",
+    "Site": "Darwin, NT",
+    "ADM": "AUS",
+    "Latitude": "12S25",
+    "Longitude": "130E38"
+  },
+  {
+    "Code": "DUB",
+    "Site": "Dublin, Ireland",
+    "ADM": "IRL",
+    "Latitude": "53N21",
+    "Longitude": "006W16"
+  },
+  {
+    "Code": "EJU",
+    "Site": "Ejura",
+    "ADM": "GHA",
+    "Latitude": "07N23",
+    "Longitude": "001W22"
+  },
+  {
+    "Code": "EKA",
+    "Site": "Ekala",
+    "ADM": "CLN",
+    "Latitude": "07N06",
+    "Longitude": "079E54"
+  },
+  {
+    "Code": "EKB",
+    "Site": "Ekaterinburg",
+    "ADM": "RUS",
+    "Latitude": "56N50",
+    "Longitude": "060E36"
+  },
+  {
+    "Code": "ELB",
+    "Site": "Elburg",
+    "ADM": "HOL",
+    "Latitude": "52N26",
+    "Longitude": "005E52"
+  },
+  {
+    "Code": "EMR",
+    "Site": "Emirler",
+    "ADM": "TUR",
+    "Latitude": "39N29",
+    "Longitude": "032E51"
+  },
+  {
+    "Code": "ENN",
+    "Site": "Encarnacion",
+    "ADM": "PRG",
+    "Latitude": "27S21",
+    "Longitude": "055W52"
+  },
+  {
+    "Code": "ERL",
+    "Site": "Erlangen",
+    "ADM": "D",
+    "Latitude": "49N33",
+    "Longitude": "011E01"
+  },
+  {
+    "Code": "ERV",
+    "Site": "Erevan",
+    "ADM": "ARM",
+    "Latitude": "40N10",
+    "Longitude": "044E30"
+  },
+  {
+    "Code": "EWN",
+    "Site": "Vandiver, AL",
+    "ADM": "USA",
+    "Latitude": "33N30",
+    "Longitude": "086W28"
+  },
+  {
+    "Code": "FAK",
+    "Site": "Fakfak",
+    "ADM": "INS",
+    "Latitude": "02S55",
+    "Longitude": "132E17"
+  },
+  {
+    "Code": "FBS",
+    "Site": "Marpi, Saipan",
+    "ADM": "USA",
+    "Latitude": "15N16",
+    "Longitude": "145E48"
+  },
+  {
+    "Code": "FIG",
+    "Site": "Foz do Iguacu",
+    "ADM": "B",
+    "Latitude": "25S31",
+    "Longitude": "054W30"
+  },
+  {
+    "Code": "FIL",
+    "Site": "Filadelfia",
+    "ADM": "PRG",
+    "Latitude": "22S18",
+    "Longitude": "060W10"
+  },
+  {
+    "Code": "FLE",
+    "Site": "Flevo",
+    "ADM": "HOL",
+    "Latitude": "52N21",
+    "Longitude": "005E27"
+  },
+  {
+    "Code": "FLI",
+    "Site": "Forli, Italy",
+    "ADM": "I",
+    "Latitude": "44N13",
+    "Longitude": "012E03"
+  },
+  {
+    "Code": "FLO",
+    "Site": "Florianopolis",
+    "ADM": "B",
+    "Latitude": "27S35",
+    "Longitude": "048W31"
+  },
+  {
+    "Code": "FOR",
+    "Site": "Fortaleza",
+    "ADM": "B",
+    "Latitude": "03S46",
+    "Longitude": "038W41"
+  },
+  {
+    "Code": "FRE",
+    "Site": "Frederikstad",
+    "ADM": "NOR",
+    "Latitude": "59N11",
+    "Longitude": "010E58"
+  },
+  {
+    "Code": "FUK",
+    "Site": "Fukuoka",
+    "ADM": "J",
+    "Latitude": "33N33",
+    "Longitude": "130E27"
+  },
+  {
+    "Code": "FUZ",
+    "Site": "Fuzhou",
+    "ADM": "CHN",
+    "Latitude": "26N06",
+    "Longitude": "119E24"
+  },
+  {
+    "Code": "GA",
+    "Site": "Greenville, NC (Site A)",
+    "ADM": "USA",
+    "Latitude": "35N42",
+    "Longitude": "077W09"
+  },
+  {
+    "Code": "GAB",
+    "Site": "Moyabi",
+    "ADM": "GAB",
+    "Latitude": "01S40",
+    "Longitude": "013E31"
+  },
+  {
+    "Code": "GAL",
+    "Site": "Galbeni",
+    "ADM": "ROU",
+    "Latitude": "46N44",
+    "Longitude": "026E50"
+  },
+  {
+    "Code": "GAR",
+    "Site": "Garoua",
+    "ADM": "CME",
+    "Latitude": "09N18",
+    "Longitude": "013E25"
+  },
+  {
+    "Code": "GAU",
+    "Site": "Gauhati",
+    "ADM": "IND",
+    "Latitude": "26N11",
+    "Longitude": "091E50"
+  },
+  {
+    "Code": "GB",
+    "Site": "Greenville, NC (Site B)",
+    "ADM": "USA",
+    "Latitude": "35N28",
+    "Longitude": "077W12"
+  },
+  {
+    "Code": "GBN",
+    "Site": "Gaborone",
+    "ADM": "BOT",
+    "Latitude": "24S34",
+    "Longitude": "025E58"
+  },
+  {
+    "Code": "GDB",
+    "Site": "Gd. Bornand",
+    "ADM": "F",
+    "Latitude": "45N56",
+    "Longitude": "006E26"
+  },
+  {
+    "Code": "GDR",
+    "Site": "Gedja Dera",
+    "ADM": "ETH",
+    "Latitude": "08N46",
+    "Longitude": "038E40"
+  },
+  {
+    "Code": "GEI",
+    "Site": "Redwood City, CA",
+    "ADM": "USA",
+    "Latitude": "37N33",
+    "Longitude": "122W14"
+  },
+  {
+    "Code": "GEM",
+    "Site": "Geermu",
+    "ADM": "CHN",
+    "Latitude": "36N24",
+    "Longitude": "094E59"
+  },
+  {
+    "Code": "GJA",
+    "Site": "Guaruj�",
+    "ADM": "B",
+    "Latitude": "23S59",
+    "Longitude": "046W15"
+  },
+  {
+    "Code": "GJW",
+    "Site": "Gedja Jewe",
+    "ADM": "ETH",
+    "Latitude": "08N47",
+    "Longitude": "038E39"
+  },
+  {
+    "Code": "GIT",
+    "Site": "Gitega",
+    "ADM": "BDI",
+    "Latitude": "03S29",
+    "Longitude": "029E56"
+  },
+  {
+    "Code": "GIY",
+    "Site": "Guiyang",
+    "ADM": "CHN",
+    "Latitude": "26N25",
+    "Longitude": "106E36"
+  },
+  {
+    "Code": "GKP",
+    "Site": "Gorakhpur",
+    "ADM": "IND",
+    "Latitude": "23N52",
+    "Longitude": "083E28"
+  },
+  {
+    "Code": "GOD",
+    "Site": "Goderich",
+    "ADM": "SRL",
+    "Latitude": "08N30",
+    "Longitude": "013W14"
+  },
+  {
+    "Code": "GOH",
+    "Site": "Goehren",
+    "ADM": "D",
+    "Latitude": "53N32",
+    "Longitude": "011E36"
+  },
+  {
+    "Code": "GOI",
+    "Site": "Goiania",
+    "ADM": "B",
+    "Latitude": "16S43",
+    "Longitude": "049W18"
+  },
+  {
+    "Code": "GR",
+    "Site": "Greenville, NC",
+    "ADM": "USA",
+    "Latitude": "35N35",
+    "Longitude": "077W22"
+  },
+  {
+    "Code": "GRA",
+    "Site": "Granja Pavon",
+    "ADM": "GTM",
+    "Latitude": "14N34",
+    "Longitude": "090W31"
+  },
+  {
+    "Code": "GRW",
+    "Site": "Garowe",
+    "ADM": "SOM",
+    "Latitude": "08N24",
+    "Longitude": "048E28"
+  },
+  {
+    "Code": "GTG",
+    "Site": "McCaysville, GA",
+    "ADM": "USA",
+    "Latitude": "34N58",
+    "Longitude": "084W22"
+  },
+  {
+    "Code": "GTK",
+    "Site": "Gangtok",
+    "ADM": "IND",
+    "Latitude": "27N22",
+    "Longitude": "088E37"
+  },
+  {
+    "Code": "GUA",
+    "Site": "Guatemala",
+    "ADM": "GTM",
+    "Latitude": "14N30",
+    "Longitude": "090W20"
+  },
+  {
+    "Code": "GUF",
+    "Site": "Montsinery",
+    "ADM": "F",
+    "Latitude": "04N54",
+    "Longitude": "052W36"
+  },
+  {
+    "Code": "GUW",
+    "Site": "Guwahati",
+    "ADM": "IND",
+    "Latitude": "26N11",
+    "Longitude": "091E50"
+  },
+  {
+    "Code": "GWE",
+    "Site": "Gweru",
+    "ADM": "ZWE",
+    "Latitude": "19S26",
+    "Longitude": "029E51"
+  },
+  {
+    "Code": "GYM",
+    "Site": "Guayaramerin",
+    "ADM": "BOL",
+    "Latitude": "10S49",
+    "Longitude": "065W21"
+  },
+  {
+    "Code": "HAB",
+    "Site": "La Habana",
+    "ADM": "CUB",
+    "Latitude": "23N00",
+    "Longitude": "082W30"
+  },
+  {
+    "Code": "HAN",
+    "Site": "Hanoi",
+    "ADM": "VTN",
+    "Latitude": "20N59",
+    "Longitude": "105E52"
+  },
+  {
+    "Code": "HAR",
+    "Site": "Hargeysa",
+    "ADM": "SOM",
+    "Latitude": "09N33",
+    "Longitude": "044E03"
+  },
+  {
+    "Code": "HB",
+    "Site": "Horby",
+    "ADM": "S",
+    "Latitude": "55N49",
+    "Longitude": "013E44"
+  },
+  {
+    "Code": "HBA",
+    "Site": "Ha Bac",
+    "ADM": "VTN",
+    "Latitude": "21N16",
+    "Longitude": "106E12"
+  },
+  {
+    "Code": "HBN",
+    "Site": "Rep. of Palau",
+    "ADM": "USA",
+    "Latitude": "07N21",
+    "Longitude": "134E31"
+  },
+  {
+    "Code": "HCN",
+    "Site": "Ho Chi Minh V",
+    "ADM": "VTN",
+    "Latitude": "10N51",
+    "Longitude": "106E38"
+  },
+  {
+    "Code": "HEE",
+    "Site": "Heerde",
+    "ADM": "HOL",
+    "Latitude": "52N40",
+    "Longitude": "006E03"
+  },
+  {
+    "Code": "HER",
+    "Site": "Hermosillo",
+    "ADM": "MEX",
+    "Latitude": "29N04",
+    "Longitude": "110W55"
+  },
+  {
+    "Code": "HEZ",
+    "Site": "Hezuo",
+    "ADM": "CHN",
+    "Latitude": "35N06",
+    "Longitude": "102E54"
+  },
+  {
+    "Code": "HFX",
+    "Site": "Halifax, NS",
+    "ADM": "CAN",
+    "Latitude": "44N41",
+    "Longitude": "063W40"
+  },
+  {
+    "Code": "HIL",
+    "Site": "Hilleroed",
+    "ADM": "DNK",
+    "Latitude": "55N53",
+    "Longitude": "012E16"
+  },
+  {
+    "Code": "HIR",
+    "Site": "Heroshima",
+    "ADM": "J",
+    "Latitude": "34N22",
+    "Longitude": "132E26"
+  },
+  {
+    "Code": "HLR",
+    "Site": "Hailar",
+    "ADM": "CHN",
+    "Latitude": "49N02",
+    "Longitude": "119E45"
+  },
+  {
+    "Code": "HOL",
+    "Site": "Holzkirchen",
+    "ADM": "D",
+    "Latitude": "47N52",
+    "Longitude": "011E44"
+  },
+  {
+    "Code": "HON",
+    "Site": "Honiara",
+    "ADM": "SLM",
+    "Latitude": "09S25",
+    "Longitude": "160E03"
+  },
+  {
+    "Code": "HRA",
+    "Site": "Greenbush, ME",
+    "ADM": "USA",
+    "Latitude": "45N08",
+    "Longitude": "068W34"
+  },
+  {
+    "Code": "HRB",
+    "Site": "Harbin",
+    "ADM": "CHN",
+    "Latitude": "45N49",
+    "Longitude": "126E52"
+  },
+  {
+    "Code": "HRI",
+    "Site": "Furman, SC",
+    "ADM": "USA",
+    "Latitude": "32N41",
+    "Longitude": "081W08"
+  },
+  {
+    "Code": "HSB",
+    "Site": "Ha Son Binh",
+    "ADM": "VTN",
+    "Latitude": "21N20",
+    "Longitude": "105E45"
+  },
+  {
+    "Code": "HST",
+    "Site": "Hartenstein Saxony",
+    "ADM": "D",
+    "Latitude": "50N40",
+    "Longitude": "012E41"
+  },
+  {
+    "Code": "HSW",
+    "Site": "Noblesville, IN",
+    "ADM": "USA",
+    "Latitude": "40N01",
+    "Longitude": "085W57"
+  },
+  {
+    "Code": "HUA",
+    "Site": "Huancayo",
+    "ADM": "PRU",
+    "Latitude": "12S05",
+    "Longitude": "075W10"
+  },
+  {
+    "Code": "HUE",
+    "Site": "Hue",
+    "ADM": "VTN",
+    "Latitude": "16N25",
+    "Longitude": "107E40"
+  },
+  {
+    "Code": "HUH",
+    "Site": "Huhhot",
+    "ADM": "CHN",
+    "Latitude": "41N12",
+    "Longitude": "111E30"
+  },
+  {
+    "Code": "HUN",
+    "Site": "Huanuni",
+    "ADM": "BOL",
+    "Latitude": "18S47",
+    "Longitude": "066W48"
+  },
+  {
+    "Code": "HVI",
+    "Site": "Hvidovre",
+    "ADM": "DNK",
+    "Latitude": "55N36",
+    "Longitude": "012E28"
+  },
+  {
+    "Code": "HWA",
+    "Site": "HwaSung",
+    "ADM": "KOR",
+    "Latitude": "37N13",
+    "Longitude": "126E47"
+  },
+  {
+    "Code": "HYD",
+    "Site": "Hyderabad",
+    "ADM": "IND",
+    "Latitude": "17N20",
+    "Longitude": "078E33"
+  },
+  {
+    "Code": "IAK",
+    "Site": "Iakutsk",
+    "ADM": "RUS",
+    "Latitude": "62N01",
+    "Longitude": "129E48"
+  },
+  {
+    "Code": "IBA",
+    "Site": "Iba",
+    "ADM": "PHL",
+    "Latitude": "15N20",
+    "Longitude": "119E58"
+  },
+  {
+    "Code": "IBI",
+    "Site": "Ibitinga",
+    "ADM": "B",
+    "Latitude": "21S43",
+    "Longitude": "048W47"
+  },
+  {
+    "Code": "IBN",
+    "Site": "Ibadan",
+    "ADM": "NIG",
+    "Latitude": "07N23",
+    "Longitude": "003E54"
+  },
+  {
+    "Code": "ICN",
+    "Site": "Overslag",
+    "ADM": "HOL",
+    "Latitude": "51N12",
+    "Longitude": "003E53"
+  },
+  {
+    "Code": "IKO",
+    "Site": "Ikorodu",
+    "ADM": "NIG",
+    "Latitude": "07N23",
+    "Longitude": "003E56"
+  },
+  {
+    "Code": "IMF",
+    "Site": "Beowawe, NV",
+    "ADM": "USA",
+    "Latitude": "40N36",
+    "Longitude": "116W36"
+  },
+  {
+    "Code": "IMP",
+    "Site": "Imphal",
+    "ADM": "IND",
+    "Latitude": "24N37",
+    "Longitude": "093E54"
+  },
+  {
+    "Code": "INB",
+    "Site": "Red Lion, PA",
+    "ADM": "USA",
+    "Latitude": "39N54",
+    "Longitude": "076W35"
+  },
+  {
+    "Code": "IPE",
+    "Site": "Alpine, NJ",
+    "ADM": "USA",
+    "Latitude": "40N52",
+    "Longitude": "073W55"
+  },
+  {
+    "Code": "IQI",
+    "Site": "Iquitos",
+    "ADM": "PRU",
+    "Latitude": "03S45",
+    "Longitude": "073W12"
+  },
+  {
+    "Code": "IRA",
+    "Site": "Iranawila",
+    "ADM": "CLN",
+    "Latitude": "07N32",
+    "Longitude": "079E30"
+  },
+  {
+    "Code": "IRK",
+    "Site": "Irkutsk",
+    "ADM": "RUS",
+    "Latitude": "52N18",
+    "Longitude": "104E18"
+  },
+  {
+    "Code": "ISL",
+    "Site": "Islamabad",
+    "ADM": "PAK",
+    "Latitude": "33N27",
+    "Longitude": "073E12"
+  },
+  {
+    "Code": "ISM",
+    "Site": "Ismaning (BR)",
+    "ADM": "D",
+    "Latitude": "48N15",
+    "Longitude": "011E45"
+  },
+  {
+    "Code": "ISR",
+    "Site": "Jerusalem",
+    "ADM": "ISR",
+    "Latitude": "32N04",
+    "Longitude": "034E47"
+  },
+  {
+    "Code": "ISS",
+    "Site": "Issoudun",
+    "ADM": "F",
+    "Latitude": "46N57",
+    "Longitude": "001E59"
+  },
+  {
+    "Code": "ITA",
+    "Site": "Itanagar",
+    "ADM": "IND",
+    "Latitude": "27N04",
+    "Longitude": "093E36"
+  },
+  {
+    "Code": "IUJ",
+    "Site": "Iujnsakhalinsry",
+    "ADM": "RUS",
+    "Latitude": "46N55",
+    "Longitude": "143E10"
+  },
+  {
+    "Code": "IVF",
+    "Site": "Ivanofrankovsk",
+    "ADM": "UKR",
+    "Latitude": "48N56",
+    "Longitude": "024E48"
+  },
+  {
+    "Code": "JAA",
+    "Site": "JangAn",
+    "ADM": "KOR",
+    "Latitude": "37N02",
+    "Longitude": "126E51"
+  },
+  {
+    "Code": "JAI",
+    "Site": "Jaipur",
+    "ADM": "IND",
+    "Latitude": "26N54",
+    "Longitude": "075E45"
+  },
+  {
+    "Code": "JAK",
+    "Site": "Djakarta",
+    "ADM": "INS",
+    "Latitude": "06S12",
+    "Longitude": "106E51"
+  },
+  {
+    "Code": "JAM",
+    "Site": "Jammu",
+    "ADM": "IND",
+    "Latitude": "32N45",
+    "Longitude": "075E00"
+  },
+  {
+    "Code": "JAR",
+    "Site": "Jarji",
+    "ADM": "NIG",
+    "Latitude": "10N45",
+    "Longitude": "007E33"
+  },
+  {
+    "Code": "JAY",
+    "Site": "Jayapura",
+    "ADM": "INS",
+    "Latitude": "02S35",
+    "Longitude": "140E40"
+  },
+  {
+    "Code": "JBR",
+    "Site": "Jaszbereny",
+    "ADM": "HNG",
+    "Latitude": "47N35",
+    "Longitude": "019E52"
+  },
+  {
+    "Code": "JCR",
+    "Site": "Millerstown, KY",
+    "ADM": "USA",
+    "Latitude": "37N26",
+    "Longitude": "086W02"
+  },
+  {
+    "Code": "JED",
+    "Site": "Jeddah",
+    "ADM": "ARS",
+    "Latitude": "21N32",
+    "Longitude": "039E10"
+  },
+  {
+    "Code": "JES",
+    "Site": "Vado, NM",
+    "ADM": "USA",
+    "Latitude": "32N08",
+    "Longitude": "106W35"
+  },
+  {
+    "Code": "JEY",
+    "Site": "Jeypore",
+    "ADM": "IND",
+    "Latitude": "18N55",
+    "Longitude": "082E34"
+  },
+  {
+    "Code": "JHR",
+    "Site": "Milton, FL",
+    "ADM": "USA",
+    "Latitude": "30N39",
+    "Longitude": "087W05"
+  },
+  {
+    "Code": "JIE",
+    "Site": "Millerstown, KY",
+    "ADM": "USA",
+    "Latitude": "37N26",
+    "Longitude": "086W02"
+  },
+  {
+    "Code": "JIG",
+    "Site": "Jigulevsk",
+    "ADM": "RUS",
+    "Latitude": "53N26",
+    "Longitude": "049E30"
+  },
+  {
+    "Code": "JIN",
+    "Site": "Jinhua",
+    "ADM": "CHN",
+    "Latitude": "28N07",
+    "Longitude": "119E39"
+  },
+  {
+    "Code": "JMB",
+    "Site": "Jambi",
+    "ADM": "INS",
+    "Latitude": "01S38",
+    "Longitude": "103E34"
+  },
+  {
+    "Code": "JUL",
+    "Site": "Juelich",
+    "ADM": "D",
+    "Latitude": "50N57",
+    "Longitude": "006E22"
+  },
+  {
+    "Code": "JUN",
+    "Site": "Junglinster",
+    "ADM": "LUX",
+    "Latitude": "49N40",
+    "Longitude": "006E19"
+  },
+  {
+    "Code": "K-S",
+    "Site": "Kyung San",
+    "ADM": "KOR",
+    "Latitude": "35N54",
+    "Longitude": "128E49"
+  },
+  {
+    "Code": "K/A",
+    "Site": "Komsomolsk Amur",
+    "ADM": "RUS",
+    "Latitude": "50N30",
+    "Longitude": "137E05"
+  },
+  {
+    "Code": "KAB",
+    "Site": "Kabul",
+    "ADM": "AFG",
+    "Latitude": "35N00",
+    "Longitude": "069E00"
+  },
+  {
+    "Code": "KAC",
+    "Site": "Karachi",
+    "ADM": "PAK",
+    "Latitude": "24N55",
+    "Longitude": "067E00"
+  },
+  {
+    "Code": "KAJ",
+    "Site": "Kajang",
+    "ADM": "MLA",
+    "Latitude": "03N01",
+    "Longitude": "101E46"
+  },
+  {
+    "Code": "KAL",
+    "Site": "Kalatch",
+    "ADM": "RUS",
+    "Latitude": "50N26",
+    "Longitude": "040E40"
+  },
+  {
+    "Code": "KAM",
+    "Site": "Kamalabad",
+    "ADM": "IRN",
+    "Latitude": "35N46",
+    "Longitude": "051E27"
+  },
+  {
+    "Code": "KAR",
+    "Site": "Kara",
+    "ADM": "TGO",
+    "Latitude": "09N35",
+    "Longitude": "001E09"
+  },
+  {
+    "Code": "KAS",
+    "Site": "Kashi",
+    "ADM": "CHN",
+    "Latitude": "39N30",
+    "Longitude": "076E00"
+  },
+  {
+    "Code": "KAT",
+    "Site": "Kathmandu",
+    "ADM": "NPL",
+    "Latitude": "27N42",
+    "Longitude": "085E12"
+  },
+  {
+    "Code": "KAV",
+    "Site": "Kavalla",
+    "ADM": "GRC",
+    "Latitude": "40N52",
+    "Longitude": "024E50"
+  },
+  {
+    "Code": "KAW",
+    "Site": "Tokyo Kawagu",
+    "ADM": "J",
+    "Latitude": "35N50",
+    "Longitude": "139E43"
+  },
+  {
+    "Code": "KAZ",
+    "Site": "Kazan",
+    "ADM": "RUS",
+    "Latitude": "55N47",
+    "Longitude": "049E08"
+  },
+  {
+    "Code": "KBD",
+    "Site": "KABD",
+    "ADM": "KWT",
+    "Latitude": "29N16",
+    "Longitude": "047E53"
+  },
+  {
+    "Code": "KCH",
+    "Site": "Kichinev",
+    "ADM": "MDA",
+    "Latitude": "47N00",
+    "Longitude": "028E30"
+  },
+  {
+    "Code": "KDI",
+    "Site": "Kendari",
+    "ADM": "INS",
+    "Latitude": "03S38",
+    "Longitude": "125E26"
+  },
+  {
+    "Code": "KEN",
+    "Site": "Kenga",
+    "ADM": "RUS",
+    "Latitude": "57N25",
+    "Longitude": "080E56"
+  },
+  {
+    "Code": "KGA",
+    "Site": "Kananga",
+    "ADM": "COD",
+    "Latitude": "05S53",
+    "Longitude": "022E25"
+  },
+  {
+    "Code": "KGS",
+    "Site": "Kinghisepp",
+    "ADM": "RUS",
+    "Latitude": "59N27",
+    "Longitude": "028E43"
+  },
+  {
+    "Code": "KHB",
+    "Site": "Khabarovsk",
+    "ADM": "RUS",
+    "Latitude": "48N33",
+    "Longitude": "135E15"
+  },
+  {
+    "Code": "KHR",
+    "Site": "Kharkov",
+    "ADM": "UKR",
+    "Latitude": "50N00",
+    "Longitude": "036E17"
+  },
+  {
+    "Code": "KIG",
+    "Site": "Kigali",
+    "ADM": "RRW",
+    "Latitude": "01S53",
+    "Longitude": "030E04"
+  },
+  {
+    "Code": "KIM",
+    "Site": "Kimjae",
+    "ADM": "KOR",
+    "Latitude": "35N50",
+    "Longitude": "126E50"
+  },
+  {
+    "Code": "KIN",
+    "Site": "Kinshasa",
+    "ADM": "COD",
+    "Latitude": "04S23",
+    "Longitude": "015E23"
+  },
+  {
+    "Code": "KIS",
+    "Site": "Kisangani",
+    "ADM": "COD",
+    "Latitude": "00N30",
+    "Longitude": "025E11"
+  },
+  {
+    "Code": "KKT",
+    "Site": "Kolkata",
+    "ADM": "IND",
+    "Latitude": "22N27",
+    "Longitude": "088E18"
+  },
+  {
+    "Code": "KLG",
+    "Site": "Kaliningrad",
+    "ADM": "RUS",
+    "Latitude": "54N42",
+    "Longitude": "020E30"
+  },
+  {
+    "Code": "KLL",
+    "Site": "Kall",
+    "ADM": "D",
+    "Latitude": "50N28",
+    "Longitude": "006E31"
+  },
+  {
+    "Code": "KMO",
+    "Site": "Kamo",
+    "ADM": "ARM",
+    "Latitude": "40N21",
+    "Longitude": "045E07"
+  },
+  {
+    "Code": "KMP",
+    "Site": "Kampala",
+    "ADM": "UGA",
+    "Latitude": "00N20",
+    "Longitude": "032E36"
+  },
+  {
+    "Code": "KNG",
+    "Site": "Kanggye",
+    "ADM": "KRE",
+    "Latitude": "40N58",
+    "Longitude": "126E36"
+  },
+  {
+    "Code": "KNX",
+    "Site": "Kununurra WA",
+    "ADM": "AUS",
+    "Latitude": "15S48",
+    "Longitude": "128E41"
+  },
+  {
+    "Code": "KOH",
+    "Site": "Kohima",
+    "ADM": "IND",
+    "Latitude": "25N39",
+    "Longitude": "094E06"
+  },
+  {
+    "Code": "KOM",
+    "Site": "Koma Rock",
+    "ADM": "KEN",
+    "Latitude": "01S16",
+    "Longitude": "037E09"
+  },
+  {
+    "Code": "KON",
+    "Site": "Konevo",
+    "ADM": "RUS",
+    "Latitude": "60N12",
+    "Longitude": "036E53"
+  },
+  {
+    "Code": "KRA",
+    "Site": "Kranji (SIMCOM)",
+    "ADM": "SNG",
+    "Latitude": "01N25",
+    "Longitude": "103E43"
+  },
+  {
+    "Code": "KRP",
+    "Site": "Karup",
+    "ADM": "DNK",
+    "Latitude": "56N15",
+    "Longitude": "009E04"
+  },
+  {
+    "Code": "KRS",
+    "Site": "Krasnoiarsk",
+    "ADM": "RUS",
+    "Latitude": "56N01",
+    "Longitude": "092E54"
+  },
+  {
+    "Code": "KS",
+    "Site": "Kaunas",
+    "ADM": "LTU",
+    "Latitude": "54N55",
+    "Longitude": "024E00"
+  },
+  {
+    "Code": "KSG",
+    "Site": "Kurseong",
+    "ADM": "IND",
+    "Latitude": "26N55",
+    "Longitude": "088E19"
+  },
+  {
+    "Code": "KTH",
+    "Site": "Katherine",
+    "ADM": "AUS",
+    "Latitude": "14S28",
+    "Longitude": "132E16"
+  },
+  {
+    "Code": "KUJ",
+    "Site": "Kujang",
+    "ADM": "KRE",
+    "Latitude": "40N05",
+    "Longitude": "125E05"
+  },
+  {
+    "Code": "KUM",
+    "Site": "Kumamoto",
+    "ADM": "J",
+    "Latitude": "32N15",
+    "Longitude": "130E44"
+  },
+  {
+    "Code": "KUN",
+    "Site": "Kunming",
+    "ADM": "CHN",
+    "Latitude": "25N10",
+    "Longitude": "102E50"
+  },
+  {
+    "Code": "KUP",
+    "Site": "Kupang",
+    "ADM": "INS",
+    "Latitude": "10S10",
+    "Longitude": "123E30"
+  },
+  {
+    "Code": "KUR",
+    "Site": "Kursk",
+    "ADM": "RUS",
+    "Latitude": "51N46",
+    "Longitude": "036E12"
+  },
+  {
+    "Code": "KV",
+    "Site": "Kiev",
+    "ADM": "UKR",
+    "Latitude": "50N27",
+    "Longitude": "030E13"
+  },
+  {
+    "Code": "KVG",
+    "Site": "Kavieng",
+    "ADM": "PNG",
+    "Latitude": "02S34",
+    "Longitude": "150E47"
+  },
+  {
+    "Code": "KVI",
+    "Site": "Kvitsoy",
+    "ADM": "NOR",
+    "Latitude": "59N04",
+    "Longitude": "005E27"
+  },
+  {
+    "Code": "KWH",
+    "Site": "Konigs Wusterhausen",
+    "ADM": "D",
+    "Latitude": "52N18",
+    "Longitude": "013E37"
+  },
+  {
+    "Code": "KWT",
+    "Site": "Kuwait",
+    "ADM": "KWT",
+    "Latitude": "29N31",
+    "Longitude": "047E41"
+  },
+  {
+    "Code": "LAG",
+    "Site": "Lagos",
+    "ADM": "NIG",
+    "Latitude": "06N34",
+    "Longitude": "003E21"
+  },
+  {
+    "Code": "LAI",
+    "Site": "Laitse",
+    "ADM": "EST",
+    "Latitude": "59N11",
+    "Longitude": "024E23"
+  },
+  {
+    "Code": "LAM",
+    "Site": "Lampertheim",
+    "ADM": "D",
+    "Latitude": "49N36",
+    "Longitude": "008E33"
+  },
+  {
+    "Code": "LAN",
+    "Site": "Lanzhou",
+    "ADM": "CHN",
+    "Latitude": "36N02",
+    "Longitude": "103E50"
+  },
+  {
+    "Code": "LAR",
+    "Site": "Les Arcs",
+    "ADM": "F",
+    "Latitude": "45N33",
+    "Longitude": "006E30"
+  },
+  {
+    "Code": "LAW",
+    "Site": "Lae",
+    "ADM": "PNG",
+    "Latitude": "06S40",
+    "Longitude": "146E54"
+  },
+  {
+    "Code": "LDA",
+    "Site": "Les Deux Alpes",
+    "ADM": "F",
+    "Latitude": "44N59",
+    "Longitude": "006E10"
+  },
+  {
+    "Code": "LDR",
+    "Site": "Lodwar",
+    "ADM": "KEN",
+    "Latitude": "03N07",
+    "Longitude": "035E36"
+  },
+  {
+    "Code": "LEH",
+    "Site": "Leh",
+    "ADM": "IND",
+    "Latitude": "34N08",
+    "Longitude": "077E29"
+  },
+  {
+    "Code": "LRG",
+    "Site": "Lorengau",
+    "ADM": "PNG",
+    "Latitude": "02S02",
+    "Longitude": "143E17"
+  },
+  {
+    "Code": "LGS",
+    "Site": "Les Gets",
+    "ADM": "F",
+    "Latitude": "46N10",
+    "Longitude": "006E40"
+  },
+  {
+    "Code": "LHA",
+    "Site": "Lhasa",
+    "ADM": "CHN",
+    "Latitude": "29N30",
+    "Longitude": "090E59"
+  },
+  {
+    "Code": "LIB",
+    "Site": "Libreville",
+    "ADM": "GAB",
+    "Latitude": "00N25",
+    "Longitude": "009E26"
+  },
+  {
+    "Code": "LIM",
+    "Site": "Lima",
+    "ADM": "PRU",
+    "Latitude": "12S06",
+    "Longitude": "077W03"
+  },
+  {
+    "Code": "LIN",
+    "Site": "Lingshi",
+    "ADM": "CHN",
+    "Latitude": "36N52",
+    "Longitude": "111E40"
+  },
+  {
+    "Code": "LIS",
+    "Site": "Lisbon-Sao Gabriel",
+    "ADM": "POR",
+    "Latitude": "38N45",
+    "Longitude": "008W40"
+  },
+  {
+    "Code": "LIT",
+    "Site": "Litomysl",
+    "ADM": "CZE",
+    "Latitude": "49N48",
+    "Longitude": "016E10"
+  },
+  {
+    "Code": "LKW",
+    "Site": "Lucknow",
+    "ADM": "IND",
+    "Latitude": "26N53",
+    "Longitude": "081E03"
+  },
+  {
+    "Code": "LLA",
+    "Site": "Llallangua",
+    "ADM": "BOL",
+    "Latitude": "18S37",
+    "Longitude": "067W34"
+  },
+  {
+    "Code": "LMS",
+    "Site": "Les Menuires",
+    "ADM": "F",
+    "Latitude": "45N18",
+    "Longitude": "006E31"
+  },
+  {
+    "Code": "LNR",
+    "Site": "Linares",
+    "ADM": "MEX",
+    "Latitude": "24N50",
+    "Longitude": "099W34"
+  },
+  {
+    "Code": "LOB",
+    "Site": "Lobito",
+    "ADM": "AGL",
+    "Latitude": "12S18",
+    "Longitude": "013E36"
+  },
+  {
+    "Code": "LOJ",
+    "Site": "Loja",
+    "ADM": "EQA",
+    "Latitude": "03S59",
+    "Longitude": "079W12"
+  },
+  {
+    "Code": "LON",
+    "Site": "Londrina",
+    "ADM": "B",
+    "Latitude": "23S18",
+    "Longitude": "051W13"
+  },
+  {
+    "Code": "LOR",
+    "Site": "La Oroya",
+    "ADM": "PRU",
+    "Latitude": "11S30",
+    "Longitude": "075W56"
+  },
+  {
+    "Code": "LPC",
+    "Site": "La Plagne Cham",
+    "ADM": "F",
+    "Latitude": "45N27",
+    "Longitude": "006E41"
+  },
+  {
+    "Code": "LPL",
+    "Site": "La Plagne Lac",
+    "ADM": "F",
+    "Latitude": "45N33",
+    "Longitude": "006E43"
+  },
+  {
+    "Code": "LPR",
+    "Site": "La Plagne Roch",
+    "ADM": "F",
+    "Latitude": "45N33",
+    "Longitude": "006E40"
+  },
+  {
+    "Code": "LPZ",
+    "Site": "La Paz",
+    "ADM": "BOL",
+    "Latitude": "16S20",
+    "Longitude": "068W07"
+  },
+  {
+    "Code": "LSO",
+    "Site": "Lancers Gap",
+    "ADM": "LSO",
+    "Latitude": "29S19",
+    "Longitude": "027E32"
+  },
+  {
+    "Code": "LUB",
+    "Site": "Lubumbashi",
+    "ADM": "COD",
+    "Latitude": "11S41",
+    "Longitude": "027E32"
+  },
+  {
+    "Code": "LUS",
+    "Site": "Lusaka",
+    "ADM": "ZMB",
+    "Latitude": "15S30",
+    "Longitude": "028E15"
+  },
+  {
+    "Code": "LUV",
+    "Site": "Lusaka (Voice of Hope)",
+    "ADM": "ZMB",
+    "Latitude": "15S32",
+    "Longitude": "028E00"
+  },
+  {
+    "Code": "LV",
+    "Site": "Lvov",
+    "ADM": "UKR",
+    "Latitude": "49N50",
+    "Longitude": "024E00"
+  },
+  {
+    "Code": "MAA",
+    "Site": "Marslet",
+    "ADM": "DNK",
+    "Latitude": "56N06",
+    "Longitude": "010E12"
+  },
+  {
+    "Code": "MAC",
+    "Site": "Macas",
+    "ADM": "EQA",
+    "Latitude": "02S20",
+    "Longitude": "078W12"
+  },
+  {
+    "Code": "MAD",
+    "Site": "Madras",
+    "ADM": "IND",
+    "Latitude": "13N08",
+    "Longitude": "080E07"
+  },
+  {
+    "Code": "MAG",
+    "Site": "Magwa",
+    "ADM": "KWT",
+    "Latitude": "29N10",
+    "Longitude": "048E02"
+  },
+  {
+    "Code": "MAH",
+    "Site": "Mahina",
+    "ADM": "F",
+    "Latitude": "17S00",
+    "Longitude": "149W00"
+  },
+  {
+    "Code": "MAK",
+    "Site": "Makta",
+    "ADM": "UAE",
+    "Latitude": "24N21",
+    "Longitude": "054E34"
+  },
+  {
+    "Code": "MAL",
+    "Site": "Malolos",
+    "ADM": "PHL",
+    "Latitude": "14N52",
+    "Longitude": "120E48"
+  },
+  {
+    "Code": "MAN",
+    "Site": "Manzini",
+    "ADM": "SWZ",
+    "Latitude": "26S34",
+    "Longitude": "031E59"
+  },
+  {
+    "Code": "MAP",
+    "Site": "Maputo",
+    "ADM": "MOZ",
+    "Latitude": "25S57",
+    "Longitude": "032E28"
+  },
+  {
+    "Code": "MAR",
+    "Site": "Marulas",
+    "ADM": "PHL",
+    "Latitude": "14N41",
+    "Longitude": "120E59"
+  },
+  {
+    "Code": "MAS",
+    "Site": "Mashhad",
+    "ADM": "IRN",
+    "Latitude": "36N15",
+    "Longitude": "059E33"
+  },
+  {
+    "Code": "MAT",
+    "Site": "Mataram",
+    "ADM": "INS",
+    "Latitude": "08S09",
+    "Longitude": "115E30"
+  },
+  {
+    "Code": "MAU",
+    "Site": "Mauritius",
+    "ADM": "MAU",
+    "Latitude": "20S19",
+    "Longitude": "057E31"
+  },
+  {
+    "Code": "MAX",
+    "Site": "Maxoqueira",
+    "ADM": "POR",
+    "Latitude": "38N57",
+    "Longitude": "008W46"
+  },
+  {
+    "Code": "MBA",
+    "Site": "Mbandaka",
+    "ADM": "COD",
+    "Latitude": "00N04",
+    "Longitude": "018E17"
+  },
+  {
+    "Code": "MBO",
+    "Site": "Malabo",
+    "ADM": "GNE",
+    "Latitude": "03N45",
+    "Longitude": "008E47"
+  },
+  {
+    "Code": "MBU",
+    "Site": "Mbujimayi",
+    "ADM": "COD",
+    "Latitude": "06S09",
+    "Longitude": "023E35"
+  },
+  {
+    "Code": "MC",
+    "Site": "Monte Carlo",
+    "ADM": "MCO",
+    "Latitude": "43N44",
+    "Longitude": "007E26"
+  },
+  {
+    "Code": "MDC",
+    "Site": "Madagascar",
+    "ADM": "MDG",
+    "Latitude": "18S48",
+    "Longitude": "047E36"
+  },
+  {
+    "Code": "MDG",
+    "Site": "Madang",
+    "ADM": "PNG",
+    "Latitude": "05S12",
+    "Longitude": "145E46"
+  },
+  {
+    "Code": "MDO",
+    "Site": "Manado",
+    "ADM": "INS",
+    "Latitude": "01N12",
+    "Longitude": "125E26"
+  },
+  {
+    "Code": "MED",
+    "Site": "Medan",
+    "ADM": "INS",
+    "Latitude": "03N35",
+    "Longitude": "098E41"
+  },
+  {
+    "Code": "MEK",
+    "Site": "Mekele",
+    "ADM": "ETH",
+    "Latitude": "13N32",
+    "Longitude": "039E33"
+  },
+  {
+    "Code": "MEL",
+    "Site": "Melo",
+    "ADM": "URG",
+    "Latitude": "32S26",
+    "Longitude": "054W13"
+  },
+  {
+    "Code": "MEN",
+    "Site": "Mendi",
+    "ADM": "PNG",
+    "Latitude": "06S08",
+    "Longitude": "143E39"
+  },
+  {
+    "Code": "MER",
+    "Site": "Merauke",
+    "ADM": "INS",
+    "Latitude": "08S33",
+    "Longitude": "140E27"
+  },
+  {
+    "Code": "MET",
+    "Site": "Metri",
+    "ADM": "VTN",
+    "Latitude": "20N58",
+    "Longitude": "105E39"
+  },
+  {
+    "Code": "MEX",
+    "Site": "Mexico City",
+    "ADM": "MEX",
+    "Latitude": "19N16",
+    "Longitude": "099W03"
+  },
+  {
+    "Code": "MEY",
+    "Site": "Meyerton",
+    "ADM": "AFS",
+    "Latitude": "26S35",
+    "Longitude": "028E08"
+  },
+  {
+    "Code": "MGV",
+    "Site": "Megeve",
+    "ADM": "F",
+    "Latitude": "45N51",
+    "Longitude": "006E39"
+  },
+  {
+    "Code": "MIL",
+    "Site": "Milano, Italy",
+    "ADM": "I",
+    "Latitude": "45N27",
+    "Longitude": "009E11"
+  },
+  {
+    "Code": "MIN",
+    "Site": "Minhsiung",
+    "ADM": "CHN",
+    "Latitude": "23N29",
+    "Longitude": "120E27"
+  },
+  {
+    "Code": "MIR",
+    "Site": "Miri",
+    "ADM": "MLA",
+    "Latitude": "04N23",
+    "Longitude": "113E39"
+  },
+  {
+    "Code": "MIT",
+    "Site": "Mitchurinsk",
+    "ADM": "RUS",
+    "Latitude": "52N54",
+    "Longitude": "040E11"
+  },
+  {
+    "Code": "MKI",
+    "Site": "Manokwari",
+    "ADM": "INS",
+    "Latitude": "00S48",
+    "Longitude": "134E00"
+  },
+  {
+    "Code": "MLA",
+    "Site": "Muehlacker (SDR)",
+    "ADM": "D",
+    "Latitude": "48N57",
+    "Longitude": "008E51"
+  },
+  {
+    "Code": "MLK",
+    "Site": "Bethel, PA",
+    "ADM": "USA",
+    "Latitude": "40N29",
+    "Longitude": "076W17"
+  },
+  {
+    "Code": "MLT",
+    "Site": "Malta",
+    "ADM": "MLT",
+    "Latitude": "35N50",
+    "Longitude": "014E34"
+  },
+  {
+    "Code": "MNA",
+    "Site": "Manaus",
+    "ADM": "B",
+    "Latitude": "03S04",
+    "Longitude": "060W00"
+  },
+  {
+    "Code": "MNG",
+    "Site": "Managua",
+    "ADM": "NCG",
+    "Latitude": "12N09",
+    "Longitude": "086W26"
+  },
+  {
+    "Code": "MNS",
+    "Site": "Minsk",
+    "ADM": "BLR",
+    "Latitude": "53N53",
+    "Longitude": "027E31"
+  },
+  {
+    "Code": "MOG",
+    "Site": "Mogadishu",
+    "ADM": "SOM",
+    "Latitude": "02N02",
+    "Longitude": "045E21"
+  },
+  {
+    "Code": "MOK",
+    "Site": "Mokattam",
+    "ADM": "EGY",
+    "Latitude": "30N03",
+    "Longitude": "031E15"
+  },
+  {
+    "Code": "MON",
+    "Site": "Monrovia",
+    "ADM": "LBR",
+    "Latitude": "06N18",
+    "Longitude": "010W40"
+  },
+  {
+    "Code": "MOR",
+    "Site": "Morocco",
+    "ADM": "MRC",
+    "Latitude": "35N34",
+    "Longitude": "005W58"
+  },
+  {
+    "Code": "MOS",
+    "Site": "Moosbrunn",
+    "ADM": "AUT",
+    "Latitude": "48N00",
+    "Longitude": "016E28"
+  },
+  {
+    "Code": "MRD",
+    "Site": "Merida",
+    "ADM": "MEX",
+    "Latitude": "20N58",
+    "Longitude": "089W30"
+  },
+  {
+    "Code": "MRJ",
+    "Site": "Marjayoun",
+    "ADM": "LBN",
+    "Latitude": "33N22",
+    "Longitude": "035E34"
+  },
+  {
+    "Code": "MRL",
+    "Site": "Meribel",
+    "ADM": "F",
+    "Latitude": "45N22",
+    "Longitude": "006E33"
+  },
+  {
+    "Code": "MRT",
+    "Site": "Margraten",
+    "ADM": "HOL",
+    "Latitude": "50N48",
+    "Longitude": "005E48"
+  },
+  {
+    "Code": "MSK",
+    "Site": "Moskva",
+    "ADM": "RUS",
+    "Latitude": "55N45",
+    "Longitude": "037E18"
+  },
+  {
+    "Code": "MTL",
+    "Site": "Montreal, QU",
+    "ADM": "CAN",
+    "Latitude": "45N24",
+    "Longitude": "073W42"
+  },
+  {
+    "Code": "MUA",
+    "Site": "Matsuyama",
+    "ADM": "J",
+    "Latitude": "33N49",
+    "Longitude": "132E45"
+  },
+  {
+    "Code": "MUG",
+    "Site": "Muge",
+    "ADM": "POR",
+    "Latitude": "39N05",
+    "Longitude": "008W41"
+  },
+  {
+    "Code": "MUL",
+    "Site": "Mulenvos",
+    "ADM": "AGL",
+    "Latitude": "08S53",
+    "Longitude": "013E20"
+  },
+  {
+    "Code": "MUM",
+    "Site": "Mumbai",
+    "ADM": "IND",
+    "Latitude": "19N11",
+    "Longitude": "072E49"
+  },
+  {
+    "Code": "MUN",
+    "Site": "Munich",
+    "ADM": "D",
+    "Latitude": "48N06",
+    "Longitude": "011E36"
+  },
+  {
+    "Code": "MUR",
+    "Site": "Murmansk",
+    "ADM": "RUS",
+    "Latitude": "68N58",
+    "Longitude": "032E46"
+  },
+  {
+    "Code": "MVD",
+    "Site": "Montevideo",
+    "ADM": "URG",
+    "Latitude": "34S47",
+    "Longitude": "056W08"
+  },
+  {
+    "Code": "MWV",
+    "Site": "Madagascar World Voice",
+    "ADM": "MDG",
+    "Latitude": "15S43",
+    "Longitude": "046E26"
+  },
+  {
+    "Code": "N.N",
+    "Site": "Nishii Novgorod",
+    "ADM": "RUS",
+    "Latitude": "56N17",
+    "Longitude": "044E00"
+  },
+  {
+    "Code": "N/A",
+    "Site": "Nikolaevsk Amur",
+    "ADM": "RUS",
+    "Latitude": "53N10",
+    "Longitude": "140E47"
+  },
+  {
+    "Code": "NAB",
+    "Site": "Nabire",
+    "ADM": "INS",
+    "Latitude": "03S15",
+    "Longitude": "135E36"
+  },
+  {
+    "Code": "NAD",
+    "Site": "Nador",
+    "ADM": "MRC",
+    "Latitude": "35N03",
+    "Longitude": "002W55"
+  },
+  {
+    "Code": "NAG",
+    "Site": "Tokyo Nagara",
+    "ADM": "J",
+    "Latitude": "35N28",
+    "Longitude": "140E13"
+  },
+  {
+    "Code": "NAI",
+    "Site": "Nairobi",
+    "ADM": "KEN",
+    "Latitude": "01S21",
+    "Longitude": "036E45"
+  },
+  {
+    "Code": "NAK",
+    "Site": "Nakhon Sawan",
+    "ADM": "THA",
+    "Latitude": "15N49",
+    "Longitude": "100E04"
+  },
+  {
+    "Code": "NAM",
+    "Site": "Namibe",
+    "ADM": "AGL",
+    "Latitude": "15S11",
+    "Longitude": "012E05"
+  },
+  {
+    "Code": "NAN",
+    "Site": "Nanchang",
+    "ADM": "CHN",
+    "Latitude": "28N38",
+    "Longitude": "115E56"
+  },
+  {
+    "Code": "NAU",
+    "Site": "Nauen",
+    "ADM": "D",
+    "Latitude": "52N38",
+    "Longitude": "012E54"
+  },
+  {
+    "Code": "NAY",
+    "Site": "Nagoya",
+    "ADM": "J",
+    "Latitude": "35N03",
+    "Longitude": "136E58"
+  },
+  {
+    "Code": "NDJ",
+    "Site": "Ndjamena",
+    "ADM": "TCD",
+    "Latitude": "12N08",
+    "Longitude": "015E03"
+  },
+  {
+    "Code": "NIA",
+    "Site": "Niamey",
+    "ADM": "NGR",
+    "Latitude": "13N30",
+    "Longitude": "002E06"
+  },
+  {
+    "Code": "NIJ",
+    "Site": "Nijmegen",
+    "ADM": "HOL",
+    "Latitude": "51N51",
+    "Longitude": "005E50"
+  },
+  {
+    "Code": "NJG",
+    "Site": "Nanjing",
+    "ADM": "CHN",
+    "Latitude": "32N02",
+    "Longitude": "118E44"
+  },
+  {
+    "Code": "NLS",
+    "Site": "Anchor Pt, Alaska",
+    "ADM": "USA",
+    "Latitude": "59N45",
+    "Longitude": "151W44"
+  },
+  {
+    "Code": "NNN",
+    "Site": "Nanning",
+    "ADM": "CHN",
+    "Latitude": "22N47",
+    "Longitude": "108E11"
+  },
+  {
+    "Code": "NOB",
+    "Site": "Noblejas",
+    "ADM": "E",
+    "Latitude": "39N57",
+    "Longitude": "003W26"
+  },
+  {
+    "Code": "NOU",
+    "Site": "Nouakchott",
+    "ADM": "MTN",
+    "Latitude": "18N14",
+    "Longitude": "016W00"
+  },
+  {
+    "Code": "NVS",
+    "Site": "Novosibirsk",
+    "ADM": "RUS",
+    "Latitude": "55N04",
+    "Longitude": "082E58"
+  },
+  {
+    "Code": "OKH",
+    "Site": "Okhotsk",
+    "ADM": "RUS",
+    "Latitude": "59N30",
+    "Longitude": "143E00"
+  },
+  {
+    "Code": "OM",
+    "Site": "Omsk",
+    "ADM": "RUS",
+    "Latitude": "54N59",
+    "Longitude": "073E23"
+  },
+  {
+    "Code": "OMA",
+    "Site": "Masirah",
+    "ADM": "OMA",
+    "Latitude": "20N36",
+    "Longitude": "058E53"
+  },
+  {
+    "Code": "OR",
+    "Site": "Orcha",
+    "ADM": "BLR",
+    "Latitude": "54N31",
+    "Longitude": "030E27"
+  },
+  {
+    "Code": "ORB",
+    "Site": "Orenburg",
+    "ADM": "RUS",
+    "Latitude": "51N46",
+    "Longitude": "054E47"
+  },
+  {
+    "Code": "ORG",
+    "Site": "Ourgla",
+    "ADM": "ALG",
+    "Latitude": "31N55",
+    "Longitude": "005E04"
+  },
+  {
+    "Code": "ORU",
+    "Site": "Oruro",
+    "ADM": "BOL",
+    "Latitude": "17S55",
+    "Longitude": "067W19"
+  },
+  {
+    "Code": "OSA",
+    "Site": "Osaka",
+    "ADM": "J",
+    "Latitude": "34N33",
+    "Longitude": "135E31"
+  },
+  {
+    "Code": "OSC",
+    "Site": "Osasco",
+    "ADM": "B",
+    "Latitude": "23S32",
+    "Longitude": "046W47"
+  },
+  {
+    "Code": "OTT",
+    "Site": "Ottawa",
+    "ADM": "CAN",
+    "Latitude": "45N18",
+    "Longitude": "075W45"
+  },
+  {
+    "Code": "OUA",
+    "Site": "Ouagadougou",
+    "ADM": "BFA",
+    "Latitude": "12N22",
+    "Longitude": "001W31"
+  },
+  {
+    "Code": "OUL",
+    "Site": "Ouled Fayet",
+    "ADM": "ALG",
+    "Latitude": "36N43",
+    "Longitude": "002E57"
+  },
+  {
+    "Code": "OYA",
+    "Site": "Tokyo Oyama",
+    "ADM": "J",
+    "Latitude": "36N17",
+    "Longitude": "139E48"
+  },
+  {
+    "Code": "P-C",
+    "Site": "Padang Cermin",
+    "ADM": "INS",
+    "Latitude": "03N34",
+    "Longitude": "098E26"
+  },
+  {
+    "Code": "P.K",
+    "Site": "Petropavlo Kam.",
+    "ADM": "RUS",
+    "Latitude": "52N59",
+    "Longitude": "158E39"
+  },
+  {
+    "Code": "PAD",
+    "Site": "Padang",
+    "ADM": "INS",
+    "Latitude": "00S06",
+    "Longitude": "100E21"
+  },
+  {
+    "Code": "PAK",
+    "Site": "Pakanbaru",
+    "ADM": "INS",
+    "Latitude": "00N15",
+    "Longitude": "101E30"
+  },
+  {
+    "Code": "PAL",
+    "Site": "Playa de Pals",
+    "ADM": "E",
+    "Latitude": "41N59",
+    "Longitude": "003E12"
+  },
+  {
+    "Code": "PAN",
+    "Site": "Panaji",
+    "ADM": "IND",
+    "Latitude": "15N28",
+    "Longitude": "073E51"
+  },
+  {
+    "Code": "PAR",
+    "Site": "Parakou",
+    "ADM": "BEN",
+    "Latitude": "09N20",
+    "Longitude": "002E38"
+  },
+  {
+    "Code": "PAY",
+    "Site": "Pt Aysen",
+    "ADM": "CHL",
+    "Latitude": "45S22",
+    "Longitude": "072W41"
+  },
+  {
+    "Code": "PBL",
+    "Site": "Port Blair",
+    "ADM": "IND",
+    "Latitude": "11N37",
+    "Longitude": "092E45"
+  },
+  {
+    "Code": "PEK",
+    "Site": "Beijing",
+    "ADM": "CHN",
+    "Latitude": "39N55",
+    "Longitude": "116E25"
+  },
+  {
+    "Code": "PEN",
+    "Site": "Penang",
+    "ADM": "MLA",
+    "Latitude": "05N25",
+    "Longitude": "100E19"
+  },
+  {
+    "Code": "PES",
+    "Site": "Peshawar",
+    "ADM": "PAK",
+    "Latitude": "34N00",
+    "Longitude": "071E30"
+  },
+  {
+    "Code": "PGA",
+    "Site": "Palangkaraya",
+    "ADM": "INS",
+    "Latitude": "00S27",
+    "Longitude": "117E10"
+  },
+  {
+    "Code": "PHN",
+    "Site": "Phnom-penh",
+    "ADM": "CBG",
+    "Latitude": "11N34",
+    "Longitude": "104E51"
+  },
+  {
+    "Code": "PHP",
+    "Site": "Poro",
+    "ADM": "PHL",
+    "Latitude": "16N26",
+    "Longitude": "120E17"
+  },
+  {
+    "Code": "PHT",
+    "Site": "Tinang 1",
+    "ADM": "PHL",
+    "Latitude": "15N21",
+    "Longitude": "120E37"
+  },
+  {
+    "Code": "PHX",
+    "Site": "Tinang 2",
+    "ADM": "PHL",
+    "Latitude": "15N21",
+    "Longitude": "120E38"
+  },
+  {
+    "Code": "PIN",
+    "Site": "Pinneberg",
+    "ADM": "D",
+    "Latitude": "53N40",
+    "Longitude": "009E48"
+  },
+  {
+    "Code": "PJC",
+    "Site": "P J Caballero",
+    "ADM": "PRG",
+    "Latitude": "22S33",
+    "Longitude": "055W45"
+  },
+  {
+    "Code": "PLD",
+    "Site": "Plovdiv",
+    "ADM": "BUL",
+    "Latitude": "42N04",
+    "Longitude": "024E41"
+  },
+  {
+    "Code": "PLI",
+    "Site": "Pali",
+    "ADM": "CHN",
+    "Latitude": "25N05",
+    "Longitude": "121E27"
+  },
+  {
+    "Code": "PLU",
+    "Site": "Palu",
+    "ADM": "INS",
+    "Latitude": "00S36",
+    "Longitude": "129E36"
+  },
+  {
+    "Code": "PMB",
+    "Site": "Paramaribo",
+    "ADM": "SUR",
+    "Latitude": "05N49",
+    "Longitude": "055W12"
+  },
+  {
+    "Code": "PMG",
+    "Site": "Palembang",
+    "ADM": "INS",
+    "Latitude": "00S18",
+    "Longitude": "104E22"
+  },
+  {
+    "Code": "PMR",
+    "Site": "Pt. Moresby",
+    "ADM": "PNG",
+    "Latitude": "09S27",
+    "Longitude": "147E11"
+  },
+  {
+    "Code": "POD",
+    "Site": "Podebrady",
+    "ADM": "CZE",
+    "Latitude": "50N09",
+    "Longitude": "015E09"
+  },
+  {
+    "Code": "PON",
+    "Site": "Pontianak",
+    "ADM": "INS",
+    "Latitude": "00S05",
+    "Longitude": "109E16"
+  },
+  {
+    "Code": "POP",
+    "Site": "Popondetta",
+    "ADM": "PNG",
+    "Latitude": "08S45",
+    "Longitude": "148E14"
+  },
+  {
+    "Code": "POR",
+    "Site": "Pori",
+    "ADM": "FIN",
+    "Latitude": "61N28",
+    "Longitude": "021E35"
+  },
+  {
+    "Code": "POT",
+    "Site": "Potosi",
+    "ADM": "BOL",
+    "Latitude": "19S30",
+    "Longitude": "065W50"
+  },
+  {
+    "Code": "PPR",
+    "Site": "Pt au Prince",
+    "ADM": "HTI",
+    "Latitude": "18N34",
+    "Longitude": "072W20"
+  },
+  {
+    "Code": "PTA",
+    "Site": "Porto Alegre",
+    "ADM": "B",
+    "Latitude": "30S03",
+    "Longitude": "051W10"
+  },
+  {
+    "Code": "PTR",
+    "Site": "Putre",
+    "ADM": "CHL",
+    "Latitude": "18S20",
+    "Longitude": "069W36"
+  },
+  {
+    "Code": "PTV",
+    "Site": "Porto Velho",
+    "ADM": "B",
+    "Latitude": "08S45",
+    "Longitude": "063W54"
+  },
+  {
+    "Code": "PUG",
+    "Site": "Palauig",
+    "ADM": "PHL",
+    "Latitude": "15N28",
+    "Longitude": "119E50"
+  },
+  {
+    "Code": "PUT",
+    "Site": "Puttalam",
+    "ADM": "CLN",
+    "Latitude": "07N58",
+    "Longitude": "079E47"
+  },
+  {
+    "Code": "PVL",
+    "Site": "Port Vila",
+    "ADM": "VUT",
+    "Latitude": "17S44",
+    "Longitude": "168E33"
+  },
+  {
+    "Code": "PYO",
+    "Site": "Pyongyang",
+    "ADM": "KRE",
+    "Latitude": "39N05",
+    "Longitude": "125E23"
+  },
+  {
+    "Code": "PZV",
+    "Site": "Petrozavodsk",
+    "ADM": "RUS",
+    "Latitude": "61N48",
+    "Longitude": "034E20"
+  },
+  {
+    "Code": "QIQ",
+    "Site": "Qiqihar",
+    "ADM": "CHN",
+    "Latitude": "47N02",
+    "Longitude": "124E03"
+  },
+  {
+    "Code": "QTA",
+    "Site": "Quetta",
+    "ADM": "PAK",
+    "Latitude": "30N15",
+    "Longitude": "067E00"
+  },
+  {
+    "Code": "QUI",
+    "Site": "Quito",
+    "ADM": "EQA",
+    "Latitude": "00S14",
+    "Longitude": "078W20"
+  },
+  {
+    "Code": "RAB",
+    "Site": "Rabaul",
+    "ADM": "PNG",
+    "Latitude": "04S13",
+    "Longitude": "152E12"
+  },
+  {
+    "Code": "RAC",
+    "Site": "Ranchi",
+    "ADM": "IND",
+    "Latitude": "23N24",
+    "Longitude": "085E22"
+  },
+  {
+    "Code": "RAN",
+    "Site": "Rangitaiki",
+    "ADM": "NZL",
+    "Latitude": "38S50",
+    "Longitude": "176E25"
+  },
+  {
+    "Code": "RAS",
+    "Site": "RAS Hayyan",
+    "ADM": "BHR",
+    "Latitude": "26N02",
+    "Longitude": "050E37"
+  },
+  {
+    "Code": "RAV",
+    "Site": "Ravenna, Italy",
+    "ADM": "I",
+    "Latitude": "44N25",
+    "Longitude": "012E11"
+  },
+  {
+    "Code": "RAW",
+    "Site": "Rawalpindi",
+    "ADM": "PAK",
+    "Latitude": "33N30",
+    "Longitude": "073E00"
+  },
+  {
+    "Code": "REY",
+    "Site": "Reykjavik",
+    "ADM": "ISL",
+    "Latitude": "64N05",
+    "Longitude": "021W50"
+  },
+  {
+    "Code": "RHO",
+    "Site": "Rhodes",
+    "ADM": "GRC",
+    "Latitude": "36N18",
+    "Longitude": "028E00"
+  },
+  {
+    "Code": "RIA",
+    "Site": "Riazan",
+    "ADM": "RUS",
+    "Latitude": "54N37",
+    "Longitude": "039E41"
+  },
+  {
+    "Code": "RIG",
+    "Site": "Riga",
+    "ADM": "LVA",
+    "Latitude": "56N58",
+    "Longitude": "024E07"
+  },
+  {
+    "Code": "RIO",
+    "Site": "Rio de Janeiro",
+    "ADM": "B",
+    "Latitude": "22S57",
+    "Longitude": "043W13"
+  },
+  {
+    "Code": "RIY",
+    "Site": "Riyadh",
+    "ADM": "ARS",
+    "Latitude": "24N30",
+    "Longitude": "046E23"
+  },
+  {
+    "Code": "RME",
+    "Site": "Riga 2 (Radio Merkurs)",
+    "ADM": "LVA",
+    "Latitude": "57N02",
+    "Longitude": "024E01"
+  },
+  {
+    "Code": "RMI",
+    "Site": "Okeechobee, FL",
+    "ADM": "USA",
+    "Latitude": "27N28",
+    "Longitude": "080W56"
+  },
+  {
+    "Code": "RMP",
+    "Site": "Rampisham",
+    "ADM": "G",
+    "Latitude": "50N48",
+    "Longitude": "002W38"
+  },
+  {
+    "Code": "RND",
+    "Site": "Randers",
+    "ADM": "DNK",
+    "Latitude": "56N31",
+    "Longitude": "009E55"
+  },
+  {
+    "Code": "RNO",
+    "Site": "New Orleans, LA",
+    "ADM": "USA",
+    "Latitude": "29N50",
+    "Longitude": "090W07"
+  },
+  {
+    "Code": "ROB",
+    "Site": "Rohrbach",
+    "ADM": "D",
+    "Latitude": "48N36",
+    "Longitude": "011E33"
+  },
+  {
+    "Code": "ROH",
+    "Site": "Rohrdorf (BR)",
+    "ADM": "D",
+    "Latitude": "48N01",
+    "Longitude": "009E07"
+  },
+  {
+    "Code": "ROM",
+    "Site": "Roma",
+    "ADM": "I",
+    "Latitude": "41N48",
+    "Longitude": "012E31"
+  },
+  {
+    "Code": "RPR",
+    "Site": "Ribeirao Preto",
+    "ADM": "B",
+    "Latitude": "21S08",
+    "Longitude": "047W52"
+  },
+  {
+    "Code": "RSO",
+    "Site": "Rimavska Sobota",
+    "ADM": "SVK",
+    "Latitude": "48N23",
+    "Longitude": "020E00"
+  },
+  {
+    "Code": "RUF",
+    "Site": "Rufisque",
+    "ADM": "SEN",
+    "Latitude": "14N08",
+    "Longitude": "017W05"
+  },
+  {
+    "Code": "S.P",
+    "Site": "Sanct-Peterburg",
+    "ADM": "RUS",
+    "Latitude": "59N57",
+    "Longitude": "030E01"
+  },
+  {
+    "Code": "SAB",
+    "Site": "Sabrata",
+    "ADM": "LBY",
+    "Latitude": "32N47",
+    "Longitude": "012E29"
+  },
+  {
+    "Code": "SAC",
+    "Site": "Sackville",
+    "ADM": "CAN",
+    "Latitude": "45N53",
+    "Longitude": "064W19"
+  },
+  {
+    "Code": "SAI",
+    "Site": "Agingan Pt, Saipan",
+    "ADM": "USA",
+    "Latitude": "15N07",
+    "Longitude": "145E42"
+  },
+  {
+    "Code": "SAL",
+    "Site": "Salman Pack",
+    "ADM": "IRQ",
+    "Latitude": "33N09",
+    "Longitude": "044E35"
+  },
+  {
+    "Code": "SAM",
+    "Site": "Samara",
+    "ADM": "RUS",
+    "Latitude": "53N20",
+    "Longitude": "050E10"
+  },
+  {
+    "Code": "SAN",
+    "Site": "Sanaa",
+    "ADM": "YEM",
+    "Latitude": "15N22",
+    "Longitude": "044E11"
+  },
+  {
+    "Code": "SAO",
+    "Site": "Sao Tome",
+    "ADM": "STP",
+    "Latitude": "00N18",
+    "Longitude": "006E42"
+  },
+  {
+    "Code": "SA1",
+    "Site": "Sao Paulo 1",
+    "ADM": "B",
+    "Latitude": "23S40",
+    "Longitude": "046W45"
+  },
+  {
+    "Code": "SA2",
+    "Site": "Sao Paulo 2",
+    "ADM": "B",
+    "Latitude": "23S33",
+    "Longitude": "046W38"
+  },
+  {
+    "Code": "SA3",
+    "Site": "Sao Paulo 3",
+    "ADM": "B",
+    "Latitude": "23S31",
+    "Longitude": "046W34"
+  },
+  {
+    "Code": "SA4",
+    "Site": "Sao Paulo 4",
+    "ADM": "B",
+    "Latitude": "23S39",
+    "Longitude": "046W36"
+  },
+  {
+    "Code": "SA5",
+    "Site": "Sao Paulo 5",
+    "ADM": "B",
+    "Latitude": "23S33",
+    "Longitude": "046W38"
+  },
+  {
+    "Code": "SAP",
+    "Site": "Sapporo",
+    "ADM": "J",
+    "Latitude": "43N05",
+    "Longitude": "141E36"
+  },
+  {
+    "Code": "SBH",
+    "Site": "Sebha",
+    "ADM": "LBY",
+    "Latitude": "25N52",
+    "Longitude": "014E50"
+  },
+  {
+    "Code": "SCR",
+    "Site": "Sucre",
+    "ADM": "BOL",
+    "Latitude": "19S02",
+    "Longitude": "065W17"
+  },
+  {
+    "Code": "SCV",
+    "Site": "S Gervais",
+    "ADM": "F",
+    "Latitude": "45N51",
+    "Longitude": "006E40"
+  },
+  {
+    "Code": "SCZ",
+    "Site": "S Cruz",
+    "ADM": "BOL",
+    "Latitude": "17S46",
+    "Longitude": "063W11"
+  },
+  {
+    "Code": "SDA",
+    "Site": "Agat, Guam",
+    "ADM": "USA",
+    "Latitude": "13N20",
+    "Longitude": "144E39"
+  },
+  {
+    "Code": "SEB",
+    "Site": "Seeb",
+    "ADM": "OMA",
+    "Latitude": "23N40",
+    "Longitude": "058E13"
+  },
+  {
+    "Code": "SED",
+    "Site": "Salah El Deel",
+    "ADM": "IRQ",
+    "Latitude": "33N58",
+    "Longitude": "044E10"
+  },
+  {
+    "Code": "SEM",
+    "Site": "Semarang",
+    "ADM": "INS",
+    "Latitude": "06S59",
+    "Longitude": "110E23"
+  },
+  {
+    "Code": "SER",
+    "Site": "Serui",
+    "ADM": "INS",
+    "Latitude": "01S48",
+    "Longitude": "136E26"
+  },
+  {
+    "Code": "SEY",
+    "Site": "Mahe, Seychelles",
+    "ADM": "SEY",
+    "Latitude": "04S36",
+    "Longitude": "055E28"
+  },
+  {
+    "Code": "SFA",
+    "Site": "Sfax",
+    "ADM": "TUN",
+    "Latitude": "34N48",
+    "Longitude": "010E53"
+  },
+  {
+    "Code": "SGH",
+    "Site": "Shanghai",
+    "ADM": "CHN",
+    "Latitude": "31N15",
+    "Longitude": "121E29"
+  },
+  {
+    "Code": "SGO",
+    "Site": "Santiago",
+    "ADM": "CHL",
+    "Latitude": "33S27",
+    "Longitude": "070W41"
+  },
+  {
+    "Code": "SGP",
+    "Site": "Singapore",
+    "ADM": "SNG",
+    "Latitude": "01N24",
+    "Longitude": "103E51"
+  },
+  {
+    "Code": "SHB",
+    "Site": "Furman, SC",
+    "ADM": "USA",
+    "Latitude": "32N41",
+    "Longitude": "081W08"
+  },
+  {
+    "Code": "SHG",
+    "Site": "Shillong",
+    "ADM": "IND",
+    "Latitude": "25N26",
+    "Longitude": "091E49"
+  },
+  {
+    "Code": "SHI",
+    "Site": "Shijak",
+    "ADM": "ALB",
+    "Latitude": "41N21",
+    "Longitude": "019E35"
+  },
+  {
+    "Code": "SHO",
+    "Site": "Tokyo Shobu",
+    "ADM": "J",
+    "Latitude": "36N04",
+    "Longitude": "139E38"
+  },
+  {
+    "Code": "SHP",
+    "Site": "Shepperton",
+    "ADM": "AUS",
+    "Latitude": "36S20",
+    "Longitude": "145E25"
+  },
+  {
+    "Code": "SIB",
+    "Site": "Sibu",
+    "ADM": "MLA",
+    "Latitude": "02N18",
+    "Longitude": "111E49"
+  },
+  {
+    "Code": "SIM",
+    "Site": "Shimla",
+    "ADM": "IND",
+    "Latitude": "31N00",
+    "Longitude": "077E05"
+  },
+  {
+    "Code": "SIN",
+    "Site": "Sines",
+    "ADM": "POR",
+    "Latitude": "37N57",
+    "Longitude": "008W45"
+  },
+  {
+    "Code": "SIR",
+    "Site": "Sirjan",
+    "ADM": "IRN",
+    "Latitude": "29N27",
+    "Longitude": "055E41"
+  },
+  {
+    "Code": "SIS",
+    "Site": "Sisoguichi",
+    "ADM": "MEX",
+    "Latitude": "27N48",
+    "Longitude": "107W35"
+  },
+  {
+    "Code": "SIT",
+    "Site": "Sitkunai",
+    "ADM": "LTU",
+    "Latitude": "55N02",
+    "Longitude": "023E49"
+  },
+  {
+    "Code": "SJG",
+    "Site": "San Jose del Guaviare",
+    "ADM": "CLM",
+    "Latitude": "02N34",
+    "Longitude": "072W38"
+  },
+  {
+    "Code": "SJS",
+    "Site": "S Johns, NF",
+    "ADM": "CAN",
+    "Latitude": "47N34",
+    "Longitude": "052W49"
+  },
+  {
+    "Code": "SJV",
+    "Site": "Sarajevo",
+    "ADM": "BIH",
+    "Latitude": "43N55",
+    "Longitude": "018E20"
+  },
+  {
+    "Code": "SKA",
+    "Site": "Surakarta",
+    "ADM": "INS",
+    "Latitude": "07S33",
+    "Longitude": "110E48"
+  },
+  {
+    "Code": "SKN",
+    "Site": "Skelton",
+    "ADM": "G",
+    "Latitude": "54N44",
+    "Longitude": "002W54"
+  },
+  {
+    "Code": "SLA",
+    "Site": "A'Seela",
+    "ADM": "OMA",
+    "Latitude": "21N58",
+    "Longitude": "059E27"
+  },
+  {
+    "Code": "SLD",
+    "Site": "Selae Daro",
+    "ADM": "ERI",
+    "Latitude": "15N32",
+    "Longitude": "038E55"
+  },
+  {
+    "Code": "SLP",
+    "Site": "S Luis Potosi",
+    "ADM": "MEX",
+    "Latitude": "22N01",
+    "Longitude": "100W59"
+  },
+  {
+    "Code": "SLU",
+    "Site": "Sao Luis",
+    "ADM": "B",
+    "Latitude": "02S32",
+    "Longitude": "044W03"
+  },
+  {
+    "Code": "SLV",
+    "Site": "Salvador",
+    "ADM": "B",
+    "Latitude": "12S58",
+    "Longitude": "038W29"
+  },
+  {
+    "Code": "SMD",
+    "Site": "Samarinda",
+    "ADM": "INS",
+    "Latitude": "00S28",
+    "Longitude": "117E11"
+  },
+  {
+    "Code": "SMF",
+    "Site": "Simferopol",
+    "ADM": "UKR",
+    "Latitude": "44N56",
+    "Longitude": "034E06"
+  },
+  {
+    "Code": "SMG",
+    "Site": "S. Maria di Galeria",
+    "ADM": "CVA",
+    "Latitude": "42N03",
+    "Longitude": "012E19"
+  },
+  {
+    "Code": "SMR",
+    "Site": "Santa Maria",
+    "ADM": "B",
+    "Latitude": "29S44",
+    "Longitude": "053W33"
+  },
+  {
+    "Code": "SNG",
+    "Site": "Kranji (Merlin)",
+    "ADM": "SNG",
+    "Latitude": "01N25",
+    "Longitude": "103E44"
+  },
+  {
+    "Code": "SOF",
+    "Site": "Sofia",
+    "ADM": "BUL",
+    "Latitude": "42N40",
+    "Longitude": "023E20"
+  },
+  {
+    "Code": "SON",
+    "Site": "Sonsonate",
+    "ADM": "SLV",
+    "Latitude": "13N45",
+    "Longitude": "089W45"
+  },
+  {
+    "Code": "SOR",
+    "Site": "Sorong",
+    "ADM": "INS",
+    "Latitude": "00S52",
+    "Longitude": "131E25"
+  },
+  {
+    "Code": "SOT",
+    "Site": "Sottens",
+    "ADM": "SUI",
+    "Latitude": "46N39",
+    "Longitude": "006E44"
+  },
+  {
+    "Code": "SP1",
+    "Site": "SPARE 1 - site not in the list",
+    "ADM": "---",
+    "Latitude": "00N00",
+    "Longitude": "000E00"
+  },
+  {
+    "Code": "SP2",
+    "Site": "SPARE 2 - site not in the list",
+    "ADM": "---",
+    "Latitude": "00N00",
+    "Longitude": "000E00"
+  },
+  {
+    "Code": "SP3",
+    "Site": "SPARE 3 - site not in the list",
+    "ADM": "---",
+    "Latitude": "00N00",
+    "Longitude": "000E00"
+  },
+  {
+    "Code": "SP4",
+    "Site": "SPARE 4 - site not in the list",
+    "ADM": "---",
+    "Latitude": "00N00",
+    "Longitude": "000E00"
+  },
+  {
+    "Code": "SP5",
+    "Site": "SPARE 5 - site not in the list",
+    "ADM": "---",
+    "Latitude": "00N00",
+    "Longitude": "000E00"
+  },
+  {
+    "Code": "SRI",
+    "Site": "Srinagar",
+    "ADM": "IND",
+    "Latitude": "34N00",
+    "Longitude": "074E50"
+  },
+  {
+    "Code": "SRN",
+    "Site": "Saransk",
+    "ADM": "RUS",
+    "Latitude": "54N12",
+    "Longitude": "045E06"
+  },
+  {
+    "Code": "SRP",
+    "Site": "Serpukhov",
+    "ADM": "RUS",
+    "Latitude": "54N54",
+    "Longitude": "037E25"
+  },
+  {
+    "Code": "SSV",
+    "Site": "S Salvador",
+    "ADM": "SLV",
+    "Latitude": "13N44",
+    "Longitude": "089W09"
+  },
+  {
+    "Code": "STA",
+    "Site": "Stapok",
+    "ADM": "MLA",
+    "Latitude": "01N33",
+    "Longitude": "110E20"
+  },
+  {
+    "Code": "STD",
+    "Site": "Santo Domingo",
+    "ADM": "DOM",
+    "Latitude": "18N30",
+    "Longitude": "069W57"
+  },
+  {
+    "Code": "STM",
+    "Site": "Santarem",
+    "ADM": "B",
+    "Latitude": "02S26",
+    "Longitude": "054W41"
+  },
+  {
+    "Code": "STR",
+    "Site": "Starobelsk",
+    "ADM": "UKR",
+    "Latitude": "49N13",
+    "Longitude": "037E57"
+  },
+  {
+    "Code": "SUC",
+    "Site": "Sucua",
+    "ADM": "EQA",
+    "Latitude": "02S00",
+    "Longitude": "078W00"
+  },
+  {
+    "Code": "SUL",
+    "Site": "Sulaibiyah",
+    "ADM": "KWT",
+    "Latitude": "29N10",
+    "Longitude": "047E45"
+  },
+  {
+    "Code": "SUM",
+    "Site": "Sumbre",
+    "ADM": "AGL",
+    "Latitude": "11S07",
+    "Longitude": "013E54"
+  },
+  {
+    "Code": "SUR",
+    "Site": "Surabaja",
+    "ADM": "INS",
+    "Latitude": "07S13",
+    "Longitude": "112E43"
+  },
+  {
+    "Code": "SUW",
+    "Site": "Suwon",
+    "ADM": "KOR",
+    "Latitude": "37N16",
+    "Longitude": "127E01"
+  },
+  {
+    "Code": "SVE",
+    "Site": "Sveio",
+    "ADM": "NOR",
+    "Latitude": "59N37",
+    "Longitude": "005E19"
+  },
+  {
+    "Code": "SVK",
+    "Site": "Syktyvkar",
+    "ADM": "RUS",
+    "Latitude": "61N41",
+    "Longitude": "050E31"
+  },
+  {
+    "Code": "SXX",
+    "Site": "Centro Minero Siglo XX",
+    "ADM": "BOL",
+    "Latitude": "18S25",
+    "Longitude": "066W35"
+  },
+  {
+    "Code": "SZG",
+    "Site": "Shijiazhuang",
+    "ADM": "CHN",
+    "Latitude": "38N04",
+    "Longitude": "114E28"
+  },
+  {
+    "Code": "SZV",
+    "Site": "Szekesfehervar",
+    "ADM": "HNG",
+    "Latitude": "47N10",
+    "Longitude": "018E24"
+  },
+  {
+    "Code": "TAC",
+    "Site": "Tashkent",
+    "ADM": "UZB",
+    "Latitude": "41N19",
+    "Longitude": "069E17"
+  },
+  {
+    "Code": "TAI",
+    "Site": "Taipei",
+    "ADM": "CHN",
+    "Latitude": "25N09",
+    "Longitude": "121E24"
+  },
+  {
+    "Code": "TAL",
+    "Site": "Tallinn",
+    "ADM": "EST",
+    "Latitude": "59N27",
+    "Longitude": "024E47"
+  },
+  {
+    "Code": "TAN",
+    "Site": "Tangier",
+    "ADM": "MRC",
+    "Latitude": "35N48",
+    "Longitude": "005W55"
+  },
+  {
+    "Code": "TAP",
+    "Site": "Tapachula",
+    "ADM": "MEX",
+    "Latitude": "14N57",
+    "Longitude": "092W08"
+  },
+  {
+    "Code": "TAR",
+    "Site": "Tarapoto",
+    "ADM": "PRU",
+    "Latitude": "06S28",
+    "Longitude": "076W27"
+  },
+  {
+    "Code": "TBL",
+    "Site": "Tbilisi",
+    "ADM": "GEO",
+    "Latitude": "41N40",
+    "Longitude": "044E45"
+  },
+  {
+    "Code": "TBN",
+    "Site": "Salt Lake City, UT",
+    "ADM": "USA",
+    "Latitude": "40N39",
+    "Longitude": "112W03"
+  },
+  {
+    "Code": "TBO",
+    "Site": "Turbo",
+    "ADM": "CLM",
+    "Latitude": "08N05",
+    "Longitude": "076W43"
+  },
+  {
+    "Code": "TCG",
+    "Site": "Tchoelinograd",
+    "ADM": "KAZ",
+    "Latitude": "51N22",
+    "Longitude": "071E03"
+  },
+  {
+    "Code": "TCH",
+    "Site": "Tchita",
+    "ADM": "RUS",
+    "Latitude": "52N05",
+    "Longitude": "113E20"
+  },
+  {
+    "Code": "TCN",
+    "Site": "Tacna",
+    "ADM": "PRU",
+    "Latitude": "18S00",
+    "Longitude": "070W13"
+  },
+  {
+    "Code": "TCO",
+    "Site": "Tumaco",
+    "ADM": "CLM",
+    "Latitude": "01N47",
+    "Longitude": "078W48"
+  },
+  {
+    "Code": "TEM",
+    "Site": "Temuco",
+    "ADM": "CHL",
+    "Latitude": "38S41",
+    "Longitude": "072W35"
+  },
+  {
+    "Code": "TEN",
+    "Site": "Tennant Greek",
+    "ADM": "AUS",
+    "Latitude": "19S40",
+    "Longitude": "134E10"
+  },
+  {
+    "Code": "TGG",
+    "Site": "Tegucigalpa",
+    "ADM": "HND",
+    "Latitude": "14N04",
+    "Longitude": "087W14"
+  },
+  {
+    "Code": "TGN",
+    "Site": "Tignes",
+    "ADM": "F",
+    "Latitude": "45N27",
+    "Longitude": "006E54"
+  },
+  {
+    "Code": "THE",
+    "Site": "Thessaloniki",
+    "ADM": "GRC",
+    "Latitude": "40N50",
+    "Longitude": "023E00"
+  },
+  {
+    "Code": "THI",
+    "Site": "Thimphu",
+    "ADM": "BTN",
+    "Latitude": "27N28",
+    "Longitude": "089E39"
+  },
+  {
+    "Code": "THU",
+    "Site": "Thumrayt",
+    "ADM": "OMA",
+    "Latitude": "17N38",
+    "Longitude": "053E56"
+  },
+  {
+    "Code": "TIA",
+    "Site": "Tianshui",
+    "ADM": "CHN",
+    "Latitude": "34N33",
+    "Longitude": "105E42"
+  },
+  {
+    "Code": "TIG",
+    "Site": "Tiganesti",
+    "ADM": "ROU",
+    "Latitude": "44N42",
+    "Longitude": "026E06"
+  },
+  {
+    "Code": "TIN",
+    "Site": "Tinian Islands",
+    "ADM": "MRA",
+    "Latitude": "15N03",
+    "Longitude": "145E36"
+  },
+  {
+    "Code": "TJC",
+    "Site": "Newport,NC",
+    "ADM": "USA",
+    "Latitude": "34N47",
+    "Longitude": "076W53"
+  },
+  {
+    "Code": "TJK",
+    "Site": "Tanjungkarang",
+    "ADM": "INS",
+    "Latitude": "05S24",
+    "Longitude": "105E15"
+  },
+  {
+    "Code": "TLX",
+    "Site": "Tlaxiaco",
+    "ADM": "MEX",
+    "Latitude": "17N15",
+    "Longitude": "097W40"
+  },
+  {
+    "Code": "TMI",
+    "Site": "Lebanon,OR",
+    "ADM": "USA",
+    "Latitude": "44N34",
+    "Longitude": "122W50"
+  },
+  {
+    "Code": "TOG",
+    "Site": "Togblekope",
+    "ADM": "TGO",
+    "Latitude": "06N16",
+    "Longitude": "001E12"
+  },
+  {
+    "Code": "TOK",
+    "Site": "Tokyo",
+    "ADM": "J",
+    "Latitude": "35N55",
+    "Longitude": "139E45"
+  },
+  {
+    "Code": "TOM",
+    "Site": "Tomsk",
+    "ADM": "RUS",
+    "Latitude": "56N30",
+    "Longitude": "085E02"
+  },
+  {
+    "Code": "TOR",
+    "Site": "Toronto",
+    "ADM": "CAN",
+    "Latitude": "43N20",
+    "Longitude": "079W38"
+  },
+  {
+    "Code": "TRI",
+    "Site": "Tripoli",
+    "ADM": "LBY",
+    "Latitude": "32N54",
+    "Longitude": "013E11"
+  },
+  {
+    "Code": "TRJ",
+    "Site": "Tarija",
+    "ADM": "BOL",
+    "Latitude": "21S32",
+    "Longitude": "064W45"
+  },
+  {
+    "Code": "TRM",
+    "Site": "Trincomalee (Perkara)",
+    "ADM": "CLN",
+    "Latitude": "08N44",
+    "Longitude": "081E10"
+  },
+  {
+    "Code": "TSH",
+    "Site": "Tanshui",
+    "ADM": "CHN",
+    "Latitude": "25N13",
+    "Longitude": "121E29"
+  },
+  {
+    "Code": "TUA",
+    "Site": "Tuaran",
+    "ADM": "MLA",
+    "Latitude": "06N11",
+    "Longitude": "116E12"
+  },
+  {
+    "Code": "TUL",
+    "Site": "Tula",
+    "ADM": "RUS",
+    "Latitude": "54N12",
+    "Longitude": "037E48"
+  },
+  {
+    "Code": "TUM",
+    "Site": "Tumbes",
+    "ADM": "PRU",
+    "Latitude": "03S32",
+    "Longitude": "080W30"
+  },
+  {
+    "Code": "TV",
+    "Site": "Tver",
+    "ADM": "RUS",
+    "Latitude": "56N52",
+    "Longitude": "035E35"
+  },
+  {
+    "Code": "TVD",
+    "Site": "Trivandrum",
+    "ADM": "IND",
+    "Latitude": "08N29",
+    "Longitude": "076E59"
+  },
+  {
+    "Code": "TWR",
+    "Site": "Agana, Guam",
+    "ADM": "USA",
+    "Latitude": "13N17",
+    "Longitude": "144E40"
+  },
+  {
+    "Code": "TWW",
+    "Site": "Lebanon, TN",
+    "ADM": "USA",
+    "Latitude": "36N17",
+    "Longitude": "086W06"
+  },
+  {
+    "Code": "TXM",
+    "Site": "Texmelucan",
+    "ADM": "MEX",
+    "Latitude": "19N17",
+    "Longitude": "098W26"
+  },
+  {
+    "Code": "U-B",
+    "Site": "Ulan Bator",
+    "ADM": "MNG",
+    "Latitude": "47N55",
+    "Longitude": "107E00"
+  },
+  {
+    "Code": "UDO",
+    "Site": "Udorn",
+    "ADM": "THA",
+    "Latitude": "17N25",
+    "Longitude": "102E48"
+  },
+  {
+    "Code": "UJU",
+    "Site": "Ujungpandang",
+    "ADM": "INS",
+    "Latitude": "05S10",
+    "Longitude": "119E25"
+  },
+  {
+    "Code": "ULB",
+    "Site": "Ulbroka",
+    "ADM": "LVA",
+    "Latitude": "56N57",
+    "Longitude": "024E16"
+  },
+  {
+    "Code": "URU",
+    "Site": "Urumqi",
+    "ADM": "CHN",
+    "Latitude": "43N35",
+    "Longitude": "087E30"
+  },
+  {
+    "Code": "VAI",
+    "Site": "Vanimo",
+    "ADM": "PNG",
+    "Latitude": "02S42",
+    "Longitude": "141E18"
+  },
+  {
+    "Code": "VAL",
+    "Site": "The Valley",
+    "ADM": "G",
+    "Latitude": "18N13",
+    "Longitude": "063W01"
+  },
+  {
+    "Code": "VAN",
+    "Site": "Vancouver, BC",
+    "ADM": "CAN",
+    "Latitude": "49N08",
+    "Longitude": "123W12"
+  },
+  {
+    "Code": "VAT",
+    "Site": "Vatican City",
+    "ADM": "CVA",
+    "Latitude": "41N54",
+    "Longitude": "012E27"
+  },
+  {
+    "Code": "VDN",
+    "Site": "Vidin",
+    "ADM": "BUL",
+    "Latitude": "43N39",
+    "Longitude": "022E40"
+  },
+  {
+    "Code": "VIB",
+    "Site": "Val Iseres Bell",
+    "ADM": "F",
+    "Latitude": "45N26",
+    "Longitude": "006E58"
+  },
+  {
+    "Code": "VIE",
+    "Site": "Vientiane",
+    "ADM": "LAO",
+    "Latitude": "17N58",
+    "Longitude": "102E33"
+  },
+  {
+    "Code": "VIF",
+    "Site": "Val Isere Form",
+    "ADM": "F",
+    "Latitude": "45N26",
+    "Longitude": "007E01"
+  },
+  {
+    "Code": "VIL",
+    "Site": "Villarrica",
+    "ADM": "PRG",
+    "Latitude": "25S45",
+    "Longitude": "056W26"
+  },
+  {
+    "Code": "VIN",
+    "Site": "Vinnitsa",
+    "ADM": "UKR",
+    "Latitude": "49N13",
+    "Longitude": "028E26"
+  },
+  {
+    "Code": "VKO",
+    "Site": "Velke Kostolany",
+    "ADM": "SVK",
+    "Latitude": "48N31",
+    "Longitude": "017E44"
+  },
+  {
+    "Code": "VLD",
+    "Site": "Vladivostok",
+    "ADM": "RUS",
+    "Latitude": "43N12",
+    "Longitude": "131E51"
+  },
+  {
+    "Code": "VLG",
+    "Site": "Volgograd",
+    "ADM": "RUS",
+    "Latitude": "48N42",
+    "Longitude": "044E28"
+  },
+  {
+    "Code": "VLL",
+    "Site": "Villars Lans",
+    "ADM": "F",
+    "Latitude": "45N02",
+    "Longitude": "005E33"
+  },
+  {
+    "Code": "VLR",
+    "Site": "Valloire",
+    "ADM": "F",
+    "Latitude": "45N09",
+    "Longitude": "006E25"
+  },
+  {
+    "Code": "VNI",
+    "Site": "Sontay",
+    "ADM": "VTN",
+    "Latitude": "21N12",
+    "Longitude": "105E22"
+  },
+  {
+    "Code": "VN1",
+    "Site": "Sontay",
+    "ADM": "VTN",
+    "Latitude": "21N12",
+    "Longitude": "105E22"
+  },
+  {
+    "Code": "VOH",
+    "Site": "Rancho Simi, CA",
+    "ADM": "USA",
+    "Latitude": "34N15",
+    "Longitude": "118W38"
+  },
+  {
+    "Code": "VOL",
+    "Site": "Vologda",
+    "ADM": "RUS",
+    "Latitude": "59N12",
+    "Longitude": "040E06"
+  },
+  {
+    "Code": "VOR",
+    "Site": "Voronej",
+    "ADM": "RUS",
+    "Latitude": "51N38",
+    "Longitude": "039E14"
+  },
+  {
+    "Code": "VRN",
+    "Site": "Varna",
+    "ADM": "BUL",
+    "Latitude": "43N03",
+    "Longitude": "027E40"
+  },
+  {
+    "Code": "VRX",
+    "Site": "Veracruz",
+    "ADM": "MEX",
+    "Latitude": "19N10",
+    "Longitude": "096W07"
+  },
+  {
+    "Code": "VVC",
+    "Site": "Villavicencio",
+    "ADM": "CLM",
+    "Latitude": "04N09",
+    "Longitude": "073W38"
+  },
+  {
+    "Code": "WAM",
+    "Site": "Wamena",
+    "ADM": "INS",
+    "Latitude": "03S48",
+    "Longitude": "139E53"
+  },
+  {
+    "Code": "WAV",
+    "Site": "Wavre",
+    "ADM": "BEL",
+    "Latitude": "50N44",
+    "Longitude": "004E34"
+  },
+  {
+    "Code": "WBS",
+    "Site": "Macon, GA",
+    "ADM": "USA",
+    "Latitude": "32N50",
+    "Longitude": "083W38"
+  },
+  {
+    "Code": "WCR",
+    "Site": "Nashville, TN",
+    "ADM": "USA",
+    "Latitude": "36N13",
+    "Longitude": "086W54"
+  },
+  {
+    "Code": "WEL",
+    "Site": "Wellington",
+    "ADM": "NZL",
+    "Latitude": "41S05",
+    "Longitude": "174E50"
+  },
+  {
+    "Code": "WER",
+    "Site": "Wertachtal",
+    "ADM": "D",
+    "Latitude": "48N05",
+    "Longitude": "010E41"
+  },
+  {
+    "Code": "WEW",
+    "Site": "Wewak",
+    "ADM": "PNG",
+    "Latitude": "03S35",
+    "Longitude": "143E40"
+  },
+  {
+    "Code": "WHR",
+    "Site": "Naalehu, Hawaii",
+    "ADM": "USA",
+    "Latitude": "19N02",
+    "Longitude": "155W40"
+  },
+  {
+    "Code": "WIN",
+    "Site": "Windhoek",
+    "ADM": "NMB",
+    "Latitude": "22S33",
+    "Longitude": "017E13"
+  },
+  {
+    "Code": "WIS",
+    "Site": "Winsen",
+    "ADM": "D",
+    "Latitude": "52N40",
+    "Longitude": "009E46"
+  },
+  {
+    "Code": "WNM",
+    "Site": "Weenermoor",
+    "ADM": "D",
+    "Latitude": "53N12",
+    "Longitude": "007E19"
+  },
+  {
+    "Code": "WOF",
+    "Site": "Woofferton",
+    "ADM": "G",
+    "Latitude": "52N19",
+    "Longitude": "002W43"
+  },
+  {
+    "Code": "WRB",
+    "Site": "Morrison, TN",
+    "ADM": "USA",
+    "Latitude": "35N37",
+    "Longitude": "086W01"
+  },
+  {
+    "Code": "WUH",
+    "Site": "Wuhan",
+    "ADM": "CHN",
+    "Latitude": "30N36",
+    "Longitude": "114E20"
+  },
+  {
+    "Code": "WWA",
+    "Site": "Warszawa",
+    "ADM": "POL",
+    "Latitude": "52N04",
+    "Longitude": "020E52"
+  },
+  {
+    "Code": "XIA",
+    "Site": "Xian",
+    "ADM": "CHN",
+    "Latitude": "34N12",
+    "Longitude": "108E54"
+  },
+  {
+    "Code": "XIC",
+    "Site": "Xichang",
+    "ADM": "CHN",
+    "Latitude": "27N49",
+    "Longitude": "102E14"
+  },
+  {
+    "Code": "XIN",
+    "Site": "Xining",
+    "ADM": "CHN",
+    "Latitude": "36N38",
+    "Longitude": "101E36"
+  },
+  {
+    "Code": "XIY",
+    "Site": "Xingyang",
+    "ADM": "CHN",
+    "Latitude": "34N49",
+    "Longitude": "113E23"
+  },
+  {
+    "Code": "YAM",
+    "Site": "Tokyo Yamata",
+    "ADM": "J",
+    "Latitude": "36N10",
+    "Longitude": "139E50"
+  },
+  {
+    "Code": "YAN",
+    "Site": "Yangoon",
+    "ADM": "BRM",
+    "Latitude": "16N52",
+    "Longitude": "096E10"
+  },
+  {
+    "Code": "YAO",
+    "Site": "Yaounde",
+    "ADM": "CME",
+    "Latitude": "03N51",
+    "Longitude": "011E32"
+  },
+  {
+    "Code": "YFR",
+    "Site": "Obsolete, changed to RMI",
+    "ADM": "USA",
+    "Latitude": "27N28",
+    "Longitude": "080W56"
+  },
+  {
+    "Code": "YIN",
+    "Site": "Yinchuan",
+    "ADM": "CHN",
+    "Latitude": "38N30",
+    "Longitude": "106E12"
+  },
+  {
+    "Code": "YOG",
+    "Site": "Yogyakarta",
+    "ADM": "INS",
+    "Latitude": "07S47",
+    "Longitude": "110E26"
+  },
+  {
+    "Code": "ZAH",
+    "Site": "Zahedan",
+    "ADM": "IRN",
+    "Latitude": "29N28",
+    "Longitude": "060E53"
+  },
+  {
+    "Code": "ZWO",
+    "Site": "Zwolle",
+    "ADM": "HOL",
+    "Latitude": "52N29",
+    "Longitude": "006E06"
+  }
+]

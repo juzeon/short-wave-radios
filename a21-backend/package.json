@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"@types/better-sqlite3": "^7.4.0",
+		"@types/node": "^16.7.2",
+		"better-sqlite3": "^7.4.3",
+		"ts-node": "^10.2.1"
+	}
+}

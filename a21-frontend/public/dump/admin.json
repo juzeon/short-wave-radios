@@ -1,0 +1,1142 @@
+[
+  {
+    "CODE": "AFG",
+    "EN_NAME": "Afghanistan",
+    "FR_NAME": "Afghanistan",
+    "SP_NAME": "Afganist�n"
+  },
+  {
+    "CODE": "AFS",
+    "EN_NAME": "South Africa",
+    "FR_NAME": "Sudafricaine (R�p.)",
+    "SP_NAME": "Sudafricana (Rep.)"
+  },
+  {
+    "CODE": "AGL",
+    "EN_NAME": "Angola",
+    "FR_NAME": "Angola",
+    "SP_NAME": "Angola"
+  },
+  {
+    "CODE": "ALB",
+    "EN_NAME": "Albania",
+    "FR_NAME": "Albanie",
+    "SP_NAME": "Albania"
+  },
+  {
+    "CODE": "ALG",
+    "EN_NAME": "Algeria",
+    "FR_NAME": "Alg�rie",
+    "SP_NAME": "Argelia"
+  },
+  {
+    "CODE": "AND",
+    "EN_NAME": "Andorra",
+    "FR_NAME": "Andorre",
+    "SP_NAME": "Andorra"
+  },
+  {
+    "CODE": "ARG",
+    "EN_NAME": "Argentina",
+    "FR_NAME": "Argentine",
+    "SP_NAME": "Argentina"
+  },
+  {
+    "CODE": "ARM",
+    "EN_NAME": "Armenia",
+    "FR_NAME": "Arm�nie",
+    "SP_NAME": "Armenia"
+  },
+  {
+    "CODE": "ARS",
+    "EN_NAME": "Saudi Arabia",
+    "FR_NAME": "Arabie saoudite",
+    "SP_NAME": "Arabia Saudita"
+  },
+  {
+    "CODE": "ATG",
+    "EN_NAME": "Antigua and Barbuda",
+    "FR_NAME": "Antigua-et-Barbuda",
+    "SP_NAME": "Antigua y Barbuda"
+  },
+  {
+    "CODE": "AUS",
+    "EN_NAME": "Australia",
+    "FR_NAME": "Australie",
+    "SP_NAME": "Australia"
+  },
+  {
+    "CODE": "AUT",
+    "EN_NAME": "Austria",
+    "FR_NAME": "Autriche",
+    "SP_NAME": "Austria"
+  },
+  {
+    "CODE": "AZE",
+    "EN_NAME": "Azerbaijan",
+    "FR_NAME": "Azerbaidjan",
+    "SP_NAME": "Azerbaiyan"
+  },
+  {
+    "CODE": "B",
+    "EN_NAME": "Brazil",
+    "FR_NAME": "Br�sil",
+    "SP_NAME": "Brasil"
+  },
+  {
+    "CODE": "BAH",
+    "EN_NAME": "Bahamas",
+    "FR_NAME": "Bahamas",
+    "SP_NAME": "Bahamas"
+  },
+  {
+    "CODE": "BDI",
+    "EN_NAME": "Burundi",
+    "FR_NAME": "Burundi",
+    "SP_NAME": "Burundi"
+  },
+  {
+    "CODE": "BEL",
+    "EN_NAME": "Belgium",
+    "FR_NAME": "Belgique",
+    "SP_NAME": "B�lgica"
+  },
+  {
+    "CODE": "BEN",
+    "EN_NAME": "Benin",
+    "FR_NAME": "B�nin",
+    "SP_NAME": "Benin"
+  },
+  {
+    "CODE": "BFA",
+    "EN_NAME": "Burkina Faso",
+    "FR_NAME": "Burkina Faso",
+    "SP_NAME": "Burkina Faso"
+  },
+  {
+    "CODE": "BGD",
+    "EN_NAME": "Bangladesh",
+    "FR_NAME": "Bangladesh",
+    "SP_NAME": "Bangladesh"
+  },
+  {
+    "CODE": "BHR",
+    "EN_NAME": "Bahrain",
+    "FR_NAME": "Bahre�n",
+    "SP_NAME": "Bahrein"
+  },
+  {
+    "CODE": "BIH",
+    "EN_NAME": "Bosnia and Herzegovina",
+    "FR_NAME": "Bosnie-Herz�govine",
+    "SP_NAME": "Bosnia y Herzegovina"
+  },
+  {
+    "CODE": "BLR",
+    "EN_NAME": "Belarus",
+    "FR_NAME": "B�larus",
+    "SP_NAME": "Belar�s"
+  },
+  {
+    "CODE": "BLZ",
+    "EN_NAME": "Belize",
+    "FR_NAME": "Belize",
+    "SP_NAME": "Belice"
+  },
+  {
+    "CODE": "BOL",
+    "EN_NAME": "Bolivia",
+    "FR_NAME": "Bolivie",
+    "SP_NAME": "Bolivia"
+  },
+  {
+    "CODE": "BOT",
+    "EN_NAME": "Botswana",
+    "FR_NAME": "Botswana",
+    "SP_NAME": "Botswana"
+  },
+  {
+    "CODE": "BRB",
+    "EN_NAME": "Barbados",
+    "FR_NAME": "Barbade",
+    "SP_NAME": "Barbados"
+  },
+  {
+    "CODE": "BRU",
+    "EN_NAME": "Brunei Darussalam",
+    "FR_NAME": "Brun�i Darussalam",
+    "SP_NAME": "Brunei Darussalam"
+  },
+  {
+    "CODE": "BTN",
+    "EN_NAME": "Bhutan",
+    "FR_NAME": "Bhoutan",
+    "SP_NAME": "Bhut�n"
+  },
+  {
+    "CODE": "BUL",
+    "EN_NAME": "Bulgaria",
+    "FR_NAME": "Bulgarie",
+    "SP_NAME": "Bulgaria"
+  },
+  {
+    "CODE": "CAF",
+    "EN_NAME": "Central African Rep.",
+    "FR_NAME": "Centrafricaine (R�p.)",
+    "SP_NAME": "Centroafricana (Rep.)"
+  },
+  {
+    "CODE": "CAN",
+    "EN_NAME": "Canada",
+    "FR_NAME": "Canada",
+    "SP_NAME": "Canad�"
+  },
+  {
+    "CODE": "CBG",
+    "EN_NAME": "Cambodia",
+    "FR_NAME": "Cambodge",
+    "SP_NAME": "Camboya"
+  },
+  {
+    "CODE": "CHL",
+    "EN_NAME": "Chile",
+    "FR_NAME": "Chili",
+    "SP_NAME": "Chile"
+  },
+  {
+    "CODE": "CHN",
+    "EN_NAME": "China",
+    "FR_NAME": "Chine",
+    "SP_NAME": "China"
+  },
+  {
+    "CODE": "CLM",
+    "EN_NAME": "Colombia",
+    "FR_NAME": "Colombie",
+    "SP_NAME": "Colombia"
+  },
+  {
+    "CODE": "CLN",
+    "EN_NAME": "Sri Lanka",
+    "FR_NAME": "Sri Lanka",
+    "SP_NAME": "Sri Lanka"
+  },
+  {
+    "CODE": "CME",
+    "EN_NAME": "Cameroon",
+    "FR_NAME": "Cameroun",
+    "SP_NAME": "Camer�n"
+  },
+  {
+    "CODE": "COD",
+    "EN_NAME": "Dem. Reb. of Congo",
+    "FR_NAME": "R�p. d�m. du Congo",
+    "SP_NAME": "Rep. Dem. del Congo"
+  },
+  {
+    "CODE": "COG",
+    "EN_NAME": "Congo",
+    "FR_NAME": "Congo",
+    "SP_NAME": "Congo"
+  },
+  {
+    "CODE": "COM",
+    "EN_NAME": "Comoros",
+    "FR_NAME": "Comores",
+    "SP_NAME": "Comoras"
+  },
+  {
+    "CODE": "CPV",
+    "EN_NAME": "Cape Verde",
+    "FR_NAME": "Cap-Vert",
+    "SP_NAME": "Cabo Verde"
+  },
+  {
+    "CODE": "CTI",
+    "EN_NAME": "C�te d'Ivoire",
+    "FR_NAME": "C�te d'Ivoire",
+    "SP_NAME": "C�te d'Ivoire"
+  },
+  {
+    "CODE": "CTR",
+    "EN_NAME": "Costa Rica",
+    "FR_NAME": "Costa Rica",
+    "SP_NAME": "Costa Rica"
+  },
+  {
+    "CODE": "CUB",
+    "EN_NAME": "Cuba",
+    "FR_NAME": "Cuba",
+    "SP_NAME": "Cuba"
+  },
+  {
+    "CODE": "CVA",
+    "EN_NAME": "Vatican",
+    "FR_NAME": "Vatican",
+    "SP_NAME": "Vaticano"
+  },
+  {
+    "CODE": "CYP",
+    "EN_NAME": "Cyprus",
+    "FR_NAME": "Chypre",
+    "SP_NAME": "Chipre"
+  },
+  {
+    "CODE": "CZE",
+    "EN_NAME": "Czech Republic",
+    "FR_NAME": "Tch�que (R�publique)",
+    "SP_NAME": "Checa (Rep�blica)"
+  },
+  {
+    "CODE": "D",
+    "EN_NAME": "Germany",
+    "FR_NAME": "Allemagne",
+    "SP_NAME": "Alemania"
+  },
+  {
+    "CODE": "DJI",
+    "EN_NAME": "Djibouti",
+    "FR_NAME": "Djibouti",
+    "SP_NAME": "Djibouti"
+  },
+  {
+    "CODE": "DMA",
+    "EN_NAME": "Dominica",
+    "FR_NAME": "Dominique",
+    "SP_NAME": "Dominica"
+  },
+  {
+    "CODE": "DNK",
+    "EN_NAME": "Denmark",
+    "FR_NAME": "Danemark",
+    "SP_NAME": "Dinamarca"
+  },
+  {
+    "CODE": "DOM",
+    "EN_NAME": "Dominican Rep.",
+    "FR_NAME": "Dominicaine (R�p.)",
+    "SP_NAME": "Dominicana (Rep.)"
+  },
+  {
+    "CODE": "E",
+    "EN_NAME": "Spain",
+    "FR_NAME": "Espagne",
+    "SP_NAME": "Espa�a"
+  },
+  {
+    "CODE": "EGY",
+    "EN_NAME": "Egypt",
+    "FR_NAME": "Egypte",
+    "SP_NAME": "Egipto"
+  },
+  {
+    "CODE": "EQA",
+    "EN_NAME": "Ecuador",
+    "FR_NAME": "Equateur",
+    "SP_NAME": "Ecuador"
+  },
+  {
+    "CODE": "ERI",
+    "EN_NAME": "Eritrea",
+    "FR_NAME": "Erithr�e",
+    "SP_NAME": "Eritrea"
+  },
+  {
+    "CODE": "EST",
+    "EN_NAME": "Estonia",
+    "FR_NAME": "Estonie",
+    "SP_NAME": "Estonia"
+  },
+  {
+    "CODE": "ETH",
+    "EN_NAME": "Ethiopia",
+    "FR_NAME": "Ethiopie",
+    "SP_NAME": "Etiop�a"
+  },
+  {
+    "CODE": "F",
+    "EN_NAME": "France",
+    "FR_NAME": "France",
+    "SP_NAME": "Francia"
+  },
+  {
+    "CODE": "FIN",
+    "EN_NAME": "Finland",
+    "FR_NAME": "Finlande",
+    "SP_NAME": "Finlandia"
+  },
+  {
+    "CODE": "FJI",
+    "EN_NAME": "Fiji",
+    "FR_NAME": "Fidji",
+    "SP_NAME": "Fiji"
+  },
+  {
+    "CODE": "FSM",
+    "EN_NAME": "Micronesia",
+    "FR_NAME": "Micron�sie",
+    "SP_NAME": "Micronesia"
+  },
+  {
+    "CODE": "G",
+    "EN_NAME": "United Kingdom",
+    "FR_NAME": "Royaume-Uni",
+    "SP_NAME": "Reino Unido"
+  },
+  {
+    "CODE": "GAB",
+    "EN_NAME": "Gabon",
+    "FR_NAME": "Gabon",
+    "SP_NAME": "Gab�n"
+  },
+  {
+    "CODE": "GEO",
+    "EN_NAME": "Georgia",
+    "FR_NAME": "G�orgie",
+    "SP_NAME": "Georgia"
+  },
+  {
+    "CODE": "GHA",
+    "EN_NAME": "Ghana",
+    "FR_NAME": "Ghana",
+    "SP_NAME": "Ghana"
+  },
+  {
+    "CODE": "GMB",
+    "EN_NAME": "Gambia",
+    "FR_NAME": "Gambie",
+    "SP_NAME": "Gambia"
+  },
+  {
+    "CODE": "GNB",
+    "EN_NAME": "Guinea-Bissau",
+    "FR_NAME": "Guin�e-Bissau",
+    "SP_NAME": "Guinea-Bissau"
+  },
+  {
+    "CODE": "GNE",
+    "EN_NAME": "Equatorial Guinea",
+    "FR_NAME": "Guin�e �quatoriale",
+    "SP_NAME": "Guinea Ecuatorial"
+  },
+  {
+    "CODE": "GRC",
+    "EN_NAME": "Greece",
+    "FR_NAME": "Gr�ce",
+    "SP_NAME": "Grecia"
+  },
+  {
+    "CODE": "GRD",
+    "EN_NAME": "Grenada",
+    "FR_NAME": "Grenade",
+    "SP_NAME": "Granada"
+  },
+  {
+    "CODE": "GTM",
+    "EN_NAME": "Guatemala",
+    "FR_NAME": "Guatemala",
+    "SP_NAME": "Guatemala"
+  },
+  {
+    "CODE": "GUI",
+    "EN_NAME": "Guinea",
+    "FR_NAME": "Guin�e",
+    "SP_NAME": "Guinea"
+  },
+  {
+    "CODE": "GUY",
+    "EN_NAME": "Guyana",
+    "FR_NAME": "Guyana",
+    "SP_NAME": "Guyana"
+  },
+  {
+    "CODE": "HND",
+    "EN_NAME": "Honduras",
+    "FR_NAME": "Honduras",
+    "SP_NAME": "Honduras"
+  },
+  {
+    "CODE": "HNG",
+    "EN_NAME": "Hungary",
+    "FR_NAME": "Hongrie",
+    "SP_NAME": "Hungr�a"
+  },
+  {
+    "CODE": "HOL",
+    "EN_NAME": "Netherlands",
+    "FR_NAME": "Pays-Bas",
+    "SP_NAME": "Pa�ses Bajos"
+  },
+  {
+    "CODE": "HRV",
+    "EN_NAME": "Croatia",
+    "FR_NAME": "Croatie",
+    "SP_NAME": "Croacia"
+  },
+  {
+    "CODE": "HTI",
+    "EN_NAME": "Haiti",
+    "FR_NAME": "Ha�ti",
+    "SP_NAME": "Hait�"
+  },
+  {
+    "CODE": "I",
+    "EN_NAME": "Italy",
+    "FR_NAME": "Italie",
+    "SP_NAME": "Italia"
+  },
+  {
+    "CODE": "IND",
+    "EN_NAME": "India",
+    "FR_NAME": "Inde",
+    "SP_NAME": "India"
+  },
+  {
+    "CODE": "INS",
+    "EN_NAME": "Indonesia",
+    "FR_NAME": "Indon�sie",
+    "SP_NAME": "Indonesia"
+  },
+  {
+    "CODE": "IRL",
+    "EN_NAME": "Ireland",
+    "FR_NAME": "Irlande",
+    "SP_NAME": "Irlanda"
+  },
+  {
+    "CODE": "IRN",
+    "EN_NAME": "Iran (Islamic Rep. of)",
+    "FR_NAME": "Iran (R�p. islamique d')",
+    "SP_NAME": "Ir�n (Rep. Isl�mica del)"
+  },
+  {
+    "CODE": "IRQ",
+    "EN_NAME": "Iraq",
+    "FR_NAME": "Iraq",
+    "SP_NAME": "Iraq"
+  },
+  {
+    "CODE": "ISL",
+    "EN_NAME": "Iceland",
+    "FR_NAME": "Islande",
+    "SP_NAME": "Islandia"
+  },
+  {
+    "CODE": "ISR",
+    "EN_NAME": "Israel",
+    "FR_NAME": "Isra�l",
+    "SP_NAME": "Israel"
+  },
+  {
+    "CODE": "J",
+    "EN_NAME": "Japan",
+    "FR_NAME": "Japon",
+    "SP_NAME": "Jap�n"
+  },
+  {
+    "CODE": "JMC",
+    "EN_NAME": "Jamaica",
+    "FR_NAME": "Jama�que",
+    "SP_NAME": "Jamaica"
+  },
+  {
+    "CODE": "JOR",
+    "EN_NAME": "Jordan",
+    "FR_NAME": "Jordanie",
+    "SP_NAME": "Jordania"
+  },
+  {
+    "CODE": "KAZ",
+    "EN_NAME": "Kazakhstan",
+    "FR_NAME": "Kazakhstan",
+    "SP_NAME": "Kazajst�n"
+  },
+  {
+    "CODE": "KEN",
+    "EN_NAME": "Kenya",
+    "FR_NAME": "Kenya",
+    "SP_NAME": "Kenya"
+  },
+  {
+    "CODE": "KGZ",
+    "EN_NAME": "Kyrgyz Republic",
+    "FR_NAME": "R�publique kirghize",
+    "SP_NAME": "Rep�blica Kirguisa"
+  },
+  {
+    "CODE": "KIR",
+    "EN_NAME": "Kiribati",
+    "FR_NAME": "Kiribati",
+    "SP_NAME": "Kiribati"
+  },
+  {
+    "CODE": "KOR",
+    "EN_NAME": "Korea (Rep. of)",
+    "FR_NAME": "Cor�e (R�p. de)",
+    "SP_NAME": "Corea (Rep. de)"
+  },
+  {
+    "CODE": "KRE",
+    "EN_NAME": "Dem. People's Rep. of Korea",
+    "FR_NAME": "R�p. pop. d�m. de Cor�e",
+    "SP_NAME": "Rep. Pop. Dem. de Corea"
+  },
+  {
+    "CODE": "KWT",
+    "EN_NAME": "Kuwait",
+    "FR_NAME": "Kowe�t",
+    "SP_NAME": "Kuwait"
+  },
+  {
+    "CODE": "LAO",
+    "EN_NAME": "Lao P.D.R.",
+    "FR_NAME": "Lao (R.d.p.)",
+    "SP_NAME": "Lao (R.D.P.)"
+  },
+  {
+    "CODE": "LBN",
+    "EN_NAME": "Lebanon",
+    "FR_NAME": "Liban",
+    "SP_NAME": "L�bano"
+  },
+  {
+    "CODE": "LBR",
+    "EN_NAME": "Liberia",
+    "FR_NAME": "Lib�ria",
+    "SP_NAME": "Liberia"
+  },
+  {
+    "CODE": "LBY",
+    "EN_NAME": "Libya",
+    "FR_NAME": "Libye",
+    "SP_NAME": "Libia"
+  },
+  {
+    "CODE": "LCA",
+    "EN_NAME": "Saint Lucia",
+    "FR_NAME": "Sainte-Lucie",
+    "SP_NAME": "Santa Luc�a"
+  },
+  {
+    "CODE": "LIE",
+    "EN_NAME": "Liechtenstein",
+    "FR_NAME": "Liechtenstein",
+    "SP_NAME": "Liechtenstein"
+  },
+  {
+    "CODE": "LSO",
+    "EN_NAME": "Lesotho",
+    "FR_NAME": "Lesotho",
+    "SP_NAME": "Lesotho"
+  },
+  {
+    "CODE": "LTU",
+    "EN_NAME": "Lithuania",
+    "FR_NAME": "Lituanie",
+    "SP_NAME": "Lituania"
+  },
+  {
+    "CODE": "LUX",
+    "EN_NAME": "Luxembourg",
+    "FR_NAME": "Luxembourg",
+    "SP_NAME": "Luxemburgo"
+  },
+  {
+    "CODE": "LVA",
+    "EN_NAME": "Latvia",
+    "FR_NAME": "Lettonie",
+    "SP_NAME": "Letonia"
+  },
+  {
+    "CODE": "MAU",
+    "EN_NAME": "Mauritius",
+    "FR_NAME": "Maurice",
+    "SP_NAME": "Mauricio"
+  },
+  {
+    "CODE": "MCO",
+    "EN_NAME": "Monaco",
+    "FR_NAME": "Monaco",
+    "SP_NAME": "M�naco"
+  },
+  {
+    "CODE": "MDA",
+    "EN_NAME": "Moldava",
+    "FR_NAME": "Moldova",
+    "SP_NAME": "Moldova"
+  },
+  {
+    "CODE": "MDG",
+    "EN_NAME": "Madagascar",
+    "FR_NAME": "Madagascar",
+    "SP_NAME": "Madagascar"
+  },
+  {
+    "CODE": "MEX",
+    "EN_NAME": "Mexico",
+    "FR_NAME": "Mexique",
+    "SP_NAME": "M�xico"
+  },
+  {
+    "CODE": "MHL",
+    "EN_NAME": "Marshall Islands",
+    "FR_NAME": "Marshall (Iles)",
+    "SP_NAME": "Marshall (Islas)"
+  },
+  {
+    "CODE": "MKD",
+    "EN_NAME": "Macedonia",
+    "FR_NAME": "Mac�doine",
+    "SP_NAME": "Macedonia"
+  },
+  {
+    "CODE": "MLA",
+    "EN_NAME": "Malaysia",
+    "FR_NAME": "Malaisie",
+    "SP_NAME": "Malasia"
+  },
+  {
+    "CODE": "MLD",
+    "EN_NAME": "Maldives",
+    "FR_NAME": "Maldives",
+    "SP_NAME": "Maldivas"
+  },
+  {
+    "CODE": "MLI",
+    "EN_NAME": "Mali",
+    "FR_NAME": "Mali",
+    "SP_NAME": "Mal�"
+  },
+  {
+    "CODE": "MLT",
+    "EN_NAME": "Malta",
+    "FR_NAME": "Malte",
+    "SP_NAME": "Malta"
+  },
+  {
+    "CODE": "MMR",
+    "EN_NAME": "Myanmar",
+    "FR_NAME": "Myanmar",
+    "SP_NAME": "Myanmar"
+  },
+  {
+    "CODE": "MNG",
+    "EN_NAME": "Mongolia",
+    "FR_NAME": "Mongolie",
+    "SP_NAME": "Mongolia"
+  },
+  {
+    "CODE": "MOZ",
+    "EN_NAME": "Mozambique",
+    "FR_NAME": "Mozambique",
+    "SP_NAME": "Mozambique"
+  },
+  {
+    "CODE": "MRC",
+    "EN_NAME": "Morocco",
+    "FR_NAME": "Maroc",
+    "SP_NAME": "Marruecos"
+  },
+  {
+    "CODE": "MTN",
+    "EN_NAME": "Mauritania",
+    "FR_NAME": "Mauritanie",
+    "SP_NAME": "Mauritania"
+  },
+  {
+    "CODE": "MWI",
+    "EN_NAME": "Malawi",
+    "FR_NAME": "Malawi",
+    "SP_NAME": "Malawi"
+  },
+  {
+    "CODE": "NCG",
+    "EN_NAME": "Nicaragua",
+    "FR_NAME": "Nicaragua",
+    "SP_NAME": "Nicaragua"
+  },
+  {
+    "CODE": "NGR",
+    "EN_NAME": "Niger",
+    "FR_NAME": "Niger",
+    "SP_NAME": "N�ger"
+  },
+  {
+    "CODE": "NIG",
+    "EN_NAME": "Nigeria",
+    "FR_NAME": "Nig�ria",
+    "SP_NAME": "Nigeria"
+  },
+  {
+    "CODE": "NMB",
+    "EN_NAME": "Namibia",
+    "FR_NAME": "Namibie",
+    "SP_NAME": "Namibia"
+  },
+  {
+    "CODE": "NOR",
+    "EN_NAME": "Norway",
+    "FR_NAME": "Norv�ge",
+    "SP_NAME": "Noruega"
+  },
+  {
+    "CODE": "NPL",
+    "EN_NAME": "Nepal",
+    "FR_NAME": "N�pal",
+    "SP_NAME": "Nepal"
+  },
+  {
+    "CODE": "NRU",
+    "EN_NAME": "Nauru",
+    "FR_NAME": "Nauru",
+    "SP_NAME": "Nauru"
+  },
+  {
+    "CODE": "NZL",
+    "EN_NAME": "New Zealand",
+    "FR_NAME": "Nouvelle-Z�lande",
+    "SP_NAME": "Nueva Zelandia"
+  },
+  {
+    "CODE": "OMA",
+    "EN_NAME": "Oman",
+    "FR_NAME": "Oman",
+    "SP_NAME": "Om�n"
+  },
+  {
+    "CODE": "PAK",
+    "EN_NAME": "Pakistan",
+    "FR_NAME": "Pakistan",
+    "SP_NAME": "Pakist�n"
+  },
+  {
+    "CODE": "PHL",
+    "EN_NAME": "Philippines",
+    "FR_NAME": "Philippines",
+    "SP_NAME": "Filipinas"
+  },
+  {
+    "CODE": "PNG",
+    "EN_NAME": "Papua New Guinea",
+    "FR_NAME": "Papouasie-Nouvelle-Guin�e",
+    "SP_NAME": "Papua Nueva Guinea"
+  },
+  {
+    "CODE": "PNR",
+    "EN_NAME": "Panama",
+    "FR_NAME": "Panama",
+    "SP_NAME": "Panam�"
+  },
+  {
+    "CODE": "POL",
+    "EN_NAME": "Poland",
+    "FR_NAME": "Pologne",
+    "SP_NAME": "Polonia"
+  },
+  {
+    "CODE": "POR",
+    "EN_NAME": "Portugal",
+    "FR_NAME": "Portugal",
+    "SP_NAME": "Portugal"
+  },
+  {
+    "CODE": "PRG",
+    "EN_NAME": "Paraguay",
+    "FR_NAME": "Paraguay",
+    "SP_NAME": "Paraguay"
+  },
+  {
+    "CODE": "PRU",
+    "EN_NAME": "Peru",
+    "FR_NAME": "P�rou",
+    "SP_NAME": "Per�"
+  },
+  {
+    "CODE": "QAT",
+    "EN_NAME": "Qatar",
+    "FR_NAME": "Qatar",
+    "SP_NAME": "Qatar"
+  },
+  {
+    "CODE": "ROU",
+    "EN_NAME": "Romania",
+    "FR_NAME": "Roumanie",
+    "SP_NAME": "Rumania"
+  },
+  {
+    "CODE": "RRW",
+    "EN_NAME": "Rwanda",
+    "FR_NAME": "Rwanda",
+    "SP_NAME": "Rwanda"
+  },
+  {
+    "CODE": "RUS",
+    "EN_NAME": "Russia",
+    "FR_NAME": "Russie",
+    "SP_NAME": "Rusia"
+  },
+  {
+    "CODE": "S",
+    "EN_NAME": "Sweden",
+    "FR_NAME": "Su�de",
+    "SP_NAME": "Suecia"
+  },
+  {
+    "CODE": "SDN",
+    "EN_NAME": "Sudan",
+    "FR_NAME": "Soudan",
+    "SP_NAME": "Sud�n"
+  },
+  {
+    "CODE": "SEN",
+    "EN_NAME": "Senegal",
+    "FR_NAME": "S�n�gal",
+    "SP_NAME": "Senegal"
+  },
+  {
+    "CODE": "SEY",
+    "EN_NAME": "Seychelles",
+    "FR_NAME": "Seychelles",
+    "SP_NAME": "Seychelles"
+  },
+  {
+    "CODE": "SLM",
+    "EN_NAME": "Solomon",
+    "FR_NAME": "Salomon",
+    "SP_NAME": "Salom�n"
+  },
+  {
+    "CODE": "SLV",
+    "EN_NAME": "El Salvador",
+    "FR_NAME": "El Salvador",
+    "SP_NAME": "El Salvador"
+  },
+  {
+    "CODE": "SMO",
+    "EN_NAME": "Western Samoa",
+    "FR_NAME": "Samoa-Occidental",
+    "SP_NAME": "Samoa Occidental"
+  },
+  {
+    "CODE": "SMR",
+    "EN_NAME": "San Marino",
+    "FR_NAME": "Saint-Marin",
+    "SP_NAME": "San Marino"
+  },
+  {
+    "CODE": "SNG",
+    "EN_NAME": "Singapore",
+    "FR_NAME": "Singapour",
+    "SP_NAME": "Singapur"
+  },
+  {
+    "CODE": "SOM",
+    "EN_NAME": "Somalia",
+    "FR_NAME": "Somalie",
+    "SP_NAME": "Somalia"
+  },
+  {
+    "CODE": "SRB",
+    "EN_NAME": "Serbia",
+    "FR_NAME": "Serbie",
+    "SP_NAME": "Serbia"
+  },
+  {
+    "CODE": "SRL",
+    "EN_NAME": "Sierra Leone",
+    "FR_NAME": "Sierra Leone",
+    "SP_NAME": "Sierra Leona"
+  },
+  {
+    "CODE": "SSD",
+    "EN_NAME": "South Sudan",
+    "FR_NAME": "Soudan du Sud",
+    "SP_NAME": "Sud�n del Sur"
+  },
+  {
+    "CODE": "STP",
+    "EN_NAME": "Sao Tome and Principe",
+    "FR_NAME": "Sao Tom�-et-Principe",
+    "SP_NAME": "Santo Tom� y Pr�ncipe"
+  },
+  {
+    "CODE": "SUI",
+    "EN_NAME": "Switzerland",
+    "FR_NAME": "Suisse",
+    "SP_NAME": "Suiza"
+  },
+  {
+    "CODE": "SUR",
+    "EN_NAME": "Suriname",
+    "FR_NAME": "Suriname",
+    "SP_NAME": "Suriname"
+  },
+  {
+    "CODE": "SVK",
+    "EN_NAME": "Slovak Republic",
+    "FR_NAME": "R�publique slovaque",
+    "SP_NAME": "Rep�blica Eslovaca"
+  },
+  {
+    "CODE": "SVN",
+    "EN_NAME": "Slovenia",
+    "FR_NAME": "Slov�nie",
+    "SP_NAME": "Eslovenia"
+  },
+  {
+    "CODE": "SWZ",
+    "EN_NAME": "Swaziland",
+    "FR_NAME": "Swaziland",
+    "SP_NAME": "Swazilandia"
+  },
+  {
+    "CODE": "SYR",
+    "EN_NAME": "Syria",
+    "FR_NAME": "Syrie",
+    "SP_NAME": "Siria"
+  },
+  {
+    "CODE": "TCD",
+    "EN_NAME": "Chad",
+    "FR_NAME": "Tchad",
+    "SP_NAME": "Chad"
+  },
+  {
+    "CODE": "TGO",
+    "EN_NAME": "Togo",
+    "FR_NAME": "Togo",
+    "SP_NAME": "Togo"
+  },
+  {
+    "CODE": "THA",
+    "EN_NAME": "Thailand",
+    "FR_NAME": "Tha�lande",
+    "SP_NAME": "Tailandia"
+  },
+  {
+    "CODE": "TJK",
+    "EN_NAME": "Tajikistan",
+    "FR_NAME": "Tadjikistan",
+    "SP_NAME": "Tayikist�n"
+  },
+  {
+    "CODE": "TKM",
+    "EN_NAME": "Turkmenistan",
+    "FR_NAME": "Turkm�nistan",
+    "SP_NAME": "Turkmenist�n"
+  },
+  {
+    "CODE": "TON",
+    "EN_NAME": "Tonga",
+    "FR_NAME": "Tonga",
+    "SP_NAME": "Tonga"
+  },
+  {
+    "CODE": "TRD",
+    "EN_NAME": "Trinidad and Tobago",
+    "FR_NAME": "Trinit�-et-Tobago",
+    "SP_NAME": "Trinidad y Tabago"
+  },
+  {
+    "CODE": "TUN",
+    "EN_NAME": "Tunisia",
+    "FR_NAME": "Tunisie",
+    "SP_NAME": "T�nez"
+  },
+  {
+    "CODE": "TUR",
+    "EN_NAME": "Turkey",
+    "FR_NAME": "Turquie",
+    "SP_NAME": "Turqu�a"
+  },
+  {
+    "CODE": "TUV",
+    "EN_NAME": "Tuvalu",
+    "FR_NAME": "Tuvalu",
+    "SP_NAME": "Tuvalu"
+  },
+  {
+    "CODE": "TZA",
+    "EN_NAME": "Tanzania",
+    "FR_NAME": "Tanzanie",
+    "SP_NAME": "Tanzan�a"
+  },
+  {
+    "CODE": "UAE",
+    "EN_NAME": "United Arab Emirates",
+    "FR_NAME": "Emirats arabes unis",
+    "SP_NAME": "Emiratos Arabes Unidos"
+  },
+  {
+    "CODE": "UGA",
+    "EN_NAME": "Uganda",
+    "FR_NAME": "Ouganda",
+    "SP_NAME": "Uganda"
+  },
+  {
+    "CODE": "UKR",
+    "EN_NAME": "Ukraine",
+    "FR_NAME": "Ukraine",
+    "SP_NAME": "Ucrania"
+  },
+  {
+    "CODE": "URG",
+    "EN_NAME": "Uruguay",
+    "FR_NAME": "Uruguay",
+    "SP_NAME": "Uruguay"
+  },
+  {
+    "CODE": "USA",
+    "EN_NAME": "United States",
+    "FR_NAME": "Etats-Unis",
+    "SP_NAME": "Estados Unidos"
+  },
+  {
+    "CODE": "UZB",
+    "EN_NAME": "Ouzb�kistan",
+    "FR_NAME": "Uzbekistan",
+    "SP_NAME": "Uzbekist�n"
+  },
+  {
+    "CODE": "VCT",
+    "EN_NAME": "St Vincent and the Grenadines",
+    "FR_NAME": "Saint-Vincent-et-Grenadines",
+    "SP_NAME": "San Vicente y las Granadinas"
+  },
+  {
+    "CODE": "VEN",
+    "EN_NAME": "Venezuela",
+    "FR_NAME": "Venezuela",
+    "SP_NAME": "Venezuela"
+  },
+  {
+    "CODE": "VTN",
+    "EN_NAME": "Viet Nam",
+    "FR_NAME": "Viet Nam",
+    "SP_NAME": "Viet Nam"
+  },
+  {
+    "CODE": "VUT",
+    "EN_NAME": "Vanuatu",
+    "FR_NAME": "Vanuatu",
+    "SP_NAME": "Vanuatu"
+  },
+  {
+    "CODE": "YEM",
+    "EN_NAME": "Yemen",
+    "FR_NAME": "Y�men",
+    "SP_NAME": "Yemen"
+  },
+  {
+    "CODE": "ZMB",
+    "EN_NAME": "Zambia",
+    "FR_NAME": "Zambie",
+    "SP_NAME": "Zambia"
+  },
+  {
+    "CODE": "ZWE",
+    "EN_NAME": "Zimbabwe",
+    "FR_NAME": "Zimbabwe",
+    "SP_NAME": "Zimbabwe"
+  }
+]
