@@ -13,7 +13,7 @@
           <v-text-field label="FREQ" v-model="inputFreq" :rules="[validateFreq]"></v-text-field>
         </v-col>
         <v-col cols="4">
-          <v-checkbox v-model="fiveHz" label="5Hz deviation"></v-checkbox>
+          <v-checkbox v-model="fiveHz" label="5kHz deviation"></v-checkbox>
         </v-col>
         <v-col cols="4" class="d-flex">
           <v-spacer></v-spacer>
