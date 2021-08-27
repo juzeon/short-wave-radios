@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-app-bar app color="primary" dark>
-      <v-toolbar-title>Short Wave Radios</v-toolbar-title>
+      <v-toolbar-title><v-icon large left>mdi-radio-tower</v-icon>国际短波广播频率查询系统</v-toolbar-title>
     </v-app-bar>
     <v-main>
       <router-view/>
@@ -18,3 +18,4 @@ export default {
   }
 }
 </script>
+x
