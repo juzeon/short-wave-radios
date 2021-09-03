@@ -4,26 +4,26 @@
 ;CO BROADCASTER
 ;DE
 ;-- --------------------------------------------------
-ABC ABC-Radio Australia
+ABC ABC-Radio Australia (澳洲广播电台)
 ADM Abu Dhabi Media Company
-AGC Ag�ncia Goaiana de Comunica��o (Brazil)
-AGM United States Agency for Global Media (USAGM)
+AGC Agência Goaiana de Comunicação (Brazil)
+AGM United States Agency for Global Media (USAGM) (美国国际媒体署 包含VOA RFA)
 AIJ Two If By Sea Broadcasting Corporation
-AIR All India Radio
+AIR All India Radio (全印广播电台)
 ALI Radio Alislah
 ALR Radio Tirana, Albania
 AMP Radiodifusion America (Asuncion, Paraguay)
 AMZ Radio Nacional da Amazonia (Brazil)
 ANT ANTI, Milano
 APA Radio Aparecida (Brazil)
-ARA R�dio Araguaia Ltda. (Brazil)
+ARA Rádio Araguaia Ltda. (Brazil)
 ARD Arbeitsgemeinschaft der Rundfunkanst. Deutschlands
 ARM Radio of Armenia
 ARS Broadcasting Serv. of the Kingdom of Saudi Arabia
-AWR Adventist World Radio
+AWR Adventist World Radio (复临信徒世界广播电台)
 BAB Babcock Communications
-BAN R�dio e Televis�o bandeirantes Ltda. (Brazil)
-BBC BBC Worldservice
+BAN Rádio e Televisão bandeirantes Ltda. (Brazil)
+BBC BBC Worldservice (英国广播公司国际频道)
 BBS Bhutan Broadcasting Service
 BCE Broadcasting Center Europe S.A.
 BCQ Allan H. Weiner
@@ -36,11 +36,11 @@ BWW Leap of Faith, Inc.
 C29 Channel 292 (Germany)
 CAF Channel Africa
 CBB Caribbean Beacon
-CFI R�dio Cultura de Foz do Igua�u Ltda.(Brazil)
+CFI Rádio Cultura de Foz do Iguaçu Ltda.(Brazil)
 CHW Christliche Wissenschaft
-CLU Sistema Clube de Comunica��o (Brazil)
-CNR China National Radio
-CRI China Radio International
+CLU Sistema Clube de Comunicação (Brazil)
+CNR China National Radio (中央人民广播电台)
+CRI China Radio International (中国国际广播电台)
 CSP Christian Science Shortwave Broadcasts
 CVC CVC
 CVO Christian Voice
@@ -50,7 +50,7 @@ DRM Digital Radio Mondial
 DTK Media Broadcast GmbH (former:Deutsche Telekom)
 DVB Dem. Voice of Burma
 DWD Deutscher Wetterdienst
-DWL Deutsche Welle
+DWL Deutsche Welle (德国之声)
 E24 Europa 24 (Germany)
 EBC Emirates Broadcasting Corporation
 EMI Emirates Media
@@ -62,26 +62,26 @@ ERT Hellenic Broadcasting Corp. S.A. - Voice of Greece
 ERU Egypt Radio & TV Union
 EUR Radio Europe Netherlands
 EWN Eternal Word Television Network, Inc.
-FBS Far East Broadcasting Company, Inc.
-FCL Funda��o C�sper L�bero (Brazil)
+FBS Far East Broadcasting Company, Inc. (远东广播公司)
+FCL Fundação Cásper Líbero (Brazil)
 FEB FEBA Radio
-FEC Far East Broadcasting Company
+FEC Far East Broadcasting Company (远东广播公司)
 FGM Fang Guang Ming Radio
 FLM Fiangonana Loterana Malagasy (Malagasy Lutheran Church - Radio Feon'ny Filazantsara)
-FMP Funda��o Metropolitana Paulista (Brazil)
-FPA Funda��o Padre Anchieta (Brazil)
+FMP Fundação Metropolitana Paulista (Brazil)
+FPA Fundação Padre Anchieta (Brazil)
 FPU Free Press Unlimited (Amsterdam)
-GAU R�dio Ga�cha Ltda. (Brazil)
-GEM Governo do Estado do Maranh�o (Brazil)
+GAU Rádio Gaúcha Ltda. (Brazil)
+GEM Governo do Estado do Maranhão (Brazil)
 GJA George Jacobs & Associates, Inc.
-GLO R�dio Globo Ltda. (Brazil)
+GLO Rádio Globo Ltda. (Brazil)
 GNW Good News World Radio
-GRJ Sociedade R�dio Guaruj� Ltda. (Brazil)
-GSP R�dio Globo de S�o Paulo Ltda. (Brazil)
+GRJ Sociedade Rádio Guarujá Ltda. (Brazil)
+GSP Rádio Globo de São Paulo Ltda. (Brazil)
 GTG Blue Ridge Communications, Inc.
 GRP Radio Guaruja Paulista (Brazil)
-GUA SA R�dio Guarani (Brazil)
-GUI R�dio Gua�ba Ltda (Brazil)
+GUA SA Rádio Guarani (Brazil)
+GUI Rádio Guaíba Ltda (Brazil)
 GUN Gunaz Radio, (Belgium)
 H.A LeSea Broadcasting Corporation
 HBN Republic of Palau
@@ -90,7 +90,7 @@ HCJ Voice of the Andes
 HIC Croatian Information Center (Hrvatski Inf. Centar)
 HLR Hamburger Lokalradio e.V.
 HNG BMGE trial
-HRA World Harvest Radio
+HRA World Harvest Radio (世界丰收 国际广播电台)
 HRI LeSea Broadcasting Corporation
 HRT Hrvatska Radio - Televizija (Croatian Radio-TV)
 HSW LeSea Broadcasting Corporation
@@ -101,24 +101,24 @@ ICN Broccoli Trash Metal & Grunge, Netherlands
 IMF International Fellowship of Churches, Inc.
 IMN Iraqi Media Network
 INB World International Broadcasters, Inc.
-INC R�dio Inconfid�ncia Ltda. (Brazil)
+INC Rádio Inconfidência Ltda. (Brazil)
 INT Radio of Mediterranean
 IPE Turms Tech LLC
 IRB Islamic Republic of Iran Broadcasting
 ISL Iceland Radio
-ITA R�dio Itatiaia Ltda. (Brazil)
+ITA Rádio Itatiaia Ltda. (Brazil)
 JCI Japan Center for Intercultural Communications
 JCR World Wide Gospel Radio, Inc.
 JES Our Lady's Youth Center
 JHR Hill Radio International
 JIC Japan International Communications
 JIE Word Broadcasting Network, Inc.
-JP2 Funda��o Jo�o Paulo II (Brazil)
-JPN Funda��o Jos� de Paiva Netto (Brazil)
+JP2 Fundação João Paulo II (Brazil)
+JPN Fundação José de Paiva Netto (Brazil)
 JRT Jordan Radio & Television
 KAZ Radio of Kazakhstan
 KBC Kenya Broadcasting Corporation
-KBS Korean Broadcasting System
+KBS Korean Broadcasting System (韩国国际广播电台)
 KCB Korean Central Broadcasting Station
 KOL Kol Israel
 KRI Koode Radio International
@@ -129,7 +129,7 @@ LNC Libyan National Broadcast Channel
 LNR Lao National Radio & Television
 LRC Latvia State Radio and Television Centre
 LRT Lithuanian National Radio and TV
-MAR R�dio Marumby Ltda. (Brazil)
+MAR Rádio Marumby Ltda. (Brazil)
 MBC Mauritius Broadcasting Corporation
 MBR Media Broadcast GmbH
 MCR MediaCorp Radio (SNG)
@@ -152,10 +152,10 @@ MVB Baltic Radio (Germany)
 MWV World Christian Broadcasting (USA)
 NBA National Broadcaster of Bangladesh
 NBP National Broadcasting Corp. of Papua New Guinea
-NDP R�dio Novas de Paz Ltda.(Brazil)
+NDP Rádio Novas de Paz Ltda.(Brazil)
 NBT NBS of Thailand
 NEW For new organization
-NHK Nippon Hoso Kyokai
+NHK Nippon Hoso Kyokai (日本广播协会)
 NLS World Christian Broadcasting Corporation
 NRC National Radio Company of Ukraine
 NSB Nihon Short-wave Broadc. Co.
@@ -179,14 +179,14 @@ RBU Radio Bulgaria
 RCI Radio Canada International
 RCS Radio Corporation of Singapore
 RDK Radio Danmark
-RDB Radiobr�s Empresa Brasileira de Comunica��o Ltda (Brazil)
+RDB Radiobrás Empresa Brasileira de Comunicação Ltda (Brazil)
 RDI Radio Delta International
 RDP Radiodifusao Portuguesa, SA
 RDR HFCC, Intl. Radio for Disaster Relief project
-REC R�dio e Televis�o Record Ltda.(Brazil)
+REC Rádio e Televisão Record Ltda.(Brazil)
 REE Radio Exterior de Espana
 RET Radio Ethiopia
-RFI Radio France Internationale
+RFI Radio France Internationale (法国国际广播电台)
 RFV Radio Free Vietnam
 RHC Radio Habana Cuba (Cuba)
 RHI Radio Huriyo Zthiopien
@@ -207,19 +207,19 @@ RNG Radio Nicaragua
 RNI Radio Norway International
 RNL Radio Nile
 RNO WRNO Worldwide, Inc.
-RNP R�dio Nacional do Brasil
+RNP Rádio Nacional do Brasil
 RNV Radio Nacional de Venezuela
 RNW Radio Nederland Wereldomroep
 RNZ Radio New Zealand
-ROC Funda��o Nossa Senhor do Rocio (Brazil)
+ROC Fundação Nossa Senhor do Rocio (Brazil)
 RON Radio Onda ASBL
 RPI Radio for Peace International (Costa Rica)
-RPR Radio Prague
+RPR Radio Prague (布拉格国际广播电台)
 RRI Radio Republic of Indonesia
-RRM R�dio Rio Mar Ltda.(Brazil)
-RRO Radio Romania International
-RRS Radio Russia
-RRT Funda��o Sistema RTM de R�dio e Televis�o (Brazil)
+RRM Rádio Rio Mar Ltda.(Brazil)
+RRO Radio Romania International (罗马尼亚国际广播电台)
+RRS Radio Russia (俄罗斯广播电台)
+RRT Fundação Sistema RTM de Rádio e Televisão (Brazil)
 RSH Radio 700
 RSI Radio Singapore International
 RSO Radio Sultanate of Oman
@@ -232,13 +232,13 @@ RTK Radio of Turkmenistan
 RTM Radio Television Malaysia
 RTT Tunesian Radio & TV
 RUI Radio Ukraine International
-RUM R�dio Universit�ria Metropolitana (Brazil)
+RUM Rádio Universitária Metropolitana (Brazil)
 RVA Radio Veritas Asia
 RVP Radio Voice of the People
 SAB South African Broadcasting Corporation
 SBC Sudan National Broadcasting Corporation
 SDA Adventist Broadcasting Service, Inc.
-SEN R�dio Senado (Brazil)
+SEN Rádio Senado (Brazil)
 SHB Herald Broadcasting Syndicate, Inc.
 SIB Solomon Islands Broadcasting
 SKK Senter for Kristen Kringkasting
@@ -263,36 +263,36 @@ TMI Transformation Media International, LP
 TOE Radio208
 TOM The Overcomer Ministry
 TRT Turkish Radio-TV Corp
-TUP R�dio Tupi Ltda. (Brazil)
+TUP Rádio Tupi Ltda. (Brazil)
 TWR Trans World Radio
 TWW Leap of Faith, Inc.
 UCB United Christian Broadcasting Ltd. (England)
 UMC The United Methodist Church (USA)
 UNL Universelles Leben
-UNR United Nations Radio
+UNR United Nations Radio (联合国电台)
 UZB Radio of Uzbekistan
-VAT Vatican Radio
+VAT Vatican Radio (梵蒂冈广播电台)
 VBT Vanuatu Broadcasting and Television Corporation
 VCA Voice of Canada
 VIL Voice International Limited
 VIO Radio OZ-Viola
-VOA Voice of America
+VOA Voice of America (美国之音)
 VOC Voz Christiana (Chile)
 VOD Voice of Deleverance
-VOH Voice of Hope
+VOH Voice of Hope (希望之声)
 VOM Voice of Myanmar
 VOO Voice of Orthodoxy
 VOP Voice of Palestine
-VOR Voice of Russia
-VOT Voice of Tibet
-VOV Voice of Vietnam
+VOR Voice of Russia (俄罗斯之声)
+VOT Voice of Tibet (西藏之声)
+VOV Voice of Vietnam (越南之声)
 VRT Vlaamse Radio en Televisie
 VTC VT Communications
 WAR LeSea Broadcasting Corporation
 WBS Charles C. Josey
 WCR WNQM, Inc.
 WIB World International Broadcasters
-WHR World Harvest Radio
+WHR World Harvest Radio (世界丰收国际广播电台)
 WMR World Music Radio
 WRB Blue Ridge Communications, Inc.
 WRN World Radio Network

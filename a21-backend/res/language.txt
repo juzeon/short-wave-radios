@@ -1222,7 +1222,7 @@ Cdi Chodri
 Cdj Churahi                                                                                             
 Cdm Chepang                                                                                             
 Cdn Chaudangsi                                                                                          
-Cdo Min Dong Chinese                                                                                    
+Cdo Min Dong Chinese (闽东话)
 Cdr Cinda-Regi-Tiyal                                                                                    
 Cds Chadian Sign Language                                                                               
 Cdy Chadong                                                                                             
@@ -1253,7 +1253,7 @@ Chj Ojitlán Chinantec
 Chk Chuukese                                                                                            
 Chl Cahuilla                                                                                            
 Chm Mari (Russia)                                                                                       
-Chn Standart Chinese                                                                                      
+Chn Standart Chinese (普通话中文1)
 Cho Choctaw                                                                                             
 Chp Chipewyan                                                                                           
 Chq Quiotepec Chinantec                                                                                 
@@ -1334,7 +1334,7 @@ Cmi Emberá-Chamí
 Cmk Chimakum                                                                                            
 Cml Campalagian                                                                                         
 Cmm Michigamea                                                                                          
-Cmn Mandarin Chinese                                                                                    
+Cmn Mandarin Chinese (普通话中文3)
 Cmo Central Mnong                                                                                       
 Cmr Mro Chin                                                                                            
 Cms Messapic                                                                                            
@@ -1486,9 +1486,9 @@ Cyo Cuyonon
 Czh Huizhou Chinese                                                                                     
 Czk Knaanic                                                                                             
 Czn Zenzontepec Chatino                                                                                 
-Czo Min Zhong Chinese                                                                                   
+Czo Min Zhong Chinese (闽中话)
 Czt Zotung Chin
-Czu Teochow                                                                                         
+Czu Teochow (潮州话)
 Daa Dangaléat                                                                                           
 Dac Dambi                                                                                               
 Dad Marik                                                                                               
@@ -1555,7 +1555,7 @@ Dep Pidgin Delaware
 Deq Dendi (Central African Republic)                                                                    
 Der Deori                                                                                               
 Des Desano                                                                                              
-Deu German                                                                                              
+Deu German (德语)
 Dev Domung                                                                                              
 Dez Dengese                                                                                             
 Dga Southern Dagaare                                                                                    
@@ -1822,7 +1822,7 @@ Enb Markweeta
 Enc En                                                                                                  
 End Ende                                                                                                
 Enf Forest Enets                                                                                        
-Eng English                                                                                             
+Eng English (英语)
 Enh Tundra Enets                                                                                        
 Enm Middle English (1100-1500)                                                                          
 Enn Engenni                                                                                             
@@ -1934,7 +1934,7 @@ For Fore
 Fos Siraya                                                                                              
 Fpe Fernando Po Creole English                                                                          
 Fqs Fas                                                                                                 
-Fra French                                                                                              
+Fra French (法语)
 Frc Cajun French                                                                                        
 Frd Fordata                                                                                             
 Frk Frankish                                                                                            
@@ -2299,7 +2299,7 @@ Hag Hanga
 Hah Hahon                                                                                               
 Hai Haida                                                                                               
 Haj Hajong                                                                                              
-Hak Hakka Chinese                                                                                       
+Hak Hakka Chinese (客家话)
 Hal Halang                                                                                              
 Ham Hewa                                                                                                
 Han Hangaza                                                                                             
@@ -2738,7 +2738,7 @@ Jor Jorá
 Jos Jordanian Sign Language                                                                             
 Jow Jowulu                                                                                              
 Jpa Jewish Palestinian Aramaic                                                                          
-Jpn Japanese                                                                                            
+Jpn Japanese (日语)
 Jpr Judeo-Persian                                                                                       
 Jqr Jaqaru                                                                                              
 Jra Jarai                                                                                               
@@ -3140,7 +3140,7 @@ Kon Kongo
 Koo Konzo                                                                                               
 Kop Kwato                                                                                               
 Koq Kota (Gabon)                                                                                        
-Kor Korean                                                                                              
+Kor Korean (韩语)
 Kos Kosraean                                                                                            
 Kot Lagwan                                                                                              
 Kou Koke                                                                                                
@@ -4097,7 +4097,7 @@ Mnk Mandinka
 Mnl Tiale                                                                                               
 Mnm Mapena                                                                                              
 Mnn Southern Mnong                                                                                      
-Mnp Min Bei Chinese                                                                                     
+Mnp Min Bei Chinese (闽北话)
 Mnq Minriq                                                                                              
 Mnr Mono (USA)                                                                                          
 Mns Mansi                                                                                               
@@ -4425,7 +4425,7 @@ Naj Nalu
 Nak Nakanai                                                                                             
 Nal Nalik                                                                                               
 Nam Nangikurrunggurr                                                                                    
-Nan Min Nan Chinese                                                                                     
+Nan Min Nan Chinese (闽南话)
 Nao Naaba                                                                                               
 Nap Neapolitan                                                                                          
 Naq Nama (Namibia)                                                                                      
@@ -5592,7 +5592,7 @@ Run Rundi
 Ruo Istro Romanian                                                                                      
 Rup Macedo Romanian                                                                                     
 Ruq Megleno Romanian                                                                                    
-Rus Russian                                                                                             
+Rus Russian (俄语)
 Rut Rutul                                                                                               
 Ruu Lanas Lobu                                                                                          
 Ruy Mala (Nigeria)                                                                                      
@@ -7499,7 +7499,7 @@ Yua Yucatán Maya
 Yub Yugambal                                                                                            
 Yuc Yuchi                                                                                               
 Yud Judeo-Tripolitanian Arabic                                                                          
-Yue Cantonese                                                                                         
+Yue Cantonese (粤语)
 Yuf Havasupai-Walapai-Yavapai                                                                           
 Yug Yug                                                                                                 
 Yui Yurutí                                                                                              
@@ -7579,7 +7579,7 @@ Zhb Zhaba
 Zhd Dai Zhuang                                                                                          
 Zhi Zhire                                                                                               
 Zhn Nong Zhuang                                                                                         
-Zho Chinese                                                                                             
+Zho Chinese (普通话中文2)
 Zhw Zhoa                                                                                                
 Zia Zia                                                                                                 
 Zib Zimbabwe Sign Language                                                                              
