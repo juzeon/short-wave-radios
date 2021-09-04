@@ -1,23 +1,23 @@
 <template>
   <v-container>
     <v-card class="pa-2">
-      <v-card-title>Filter</v-card-title>
+      <v-card-title><v-icon>mdi-filter</v-icon>条件筛选</v-card-title>
       <v-row>
         <v-col cols="6">
-          <v-autocomplete v-model="broadcaster" :items="broadcasterList" label="BRC"></v-autocomplete>
+          <v-autocomplete v-model="broadcaster" :items="broadcasterList" label="电台"></v-autocomplete>
         </v-col>
         <v-col cols="6">
-          <v-autocomplete v-model="language" :items="languageList" label="LANGUAGE"></v-autocomplete>
+          <v-autocomplete v-model="language" :items="languageList" label="语言"></v-autocomplete>
         </v-col>
         <v-col cols="4">
-          <v-text-field label="FREQ" v-model="inputFreq" :rules="[validateFreq]"></v-text-field>
+          <v-text-field label="频率" v-model="inputFreq" :rules="[validateFreq]"></v-text-field>
         </v-col>
         <v-col cols="4">
-          <v-checkbox v-model="fiveHz" label="5kHz deviation"></v-checkbox>
+          <v-checkbox v-model="fivekHz" label="±5kHz 范围"></v-checkbox>
         </v-col>
         <v-col cols="4" class="d-flex">
           <v-spacer></v-spacer>
-          <v-btn @click="applyFreq" :disabled="disableApplyBtn">Apply</v-btn>
+          <v-btn @click="applyFreq" :disabled="disableApplyBtn">提交</v-btn>
         </v-col>
       </v-row>
     </v-card>
@@ -37,40 +37,40 @@ export default {
       loading: true,
       publicPath: process.env.BASE_URL,
       tableHeaders: [
-        {text: 'FREQ', value: 'FREQ'},
-        {text: 'STRT', value: 'STRT'},
-        {text: 'STOP', value: 'STOP'},
-        {text: 'ZONES', value: 'ZONES'},
-        {text: 'LOC', value: 'LOC'},
-        {text: 'POWR', value: 'POWR'},
-        {text: 'AZIMUTH', value: 'AZIMUTH'},
-        {text: 'SLW', value: 'SLW'},
-        {text: 'ANT', value: 'ANT'},
-        {text: 'DAYS', value: 'DAYS'},
-        {text: 'FDATE', value: 'FDATE'},
-        {text: 'TDATE', value: 'TDATE'},
-        {text: 'MOD', value: 'MOD'},
-        {text: 'AFRQ', value: 'AFRQ'},
-        {text: 'LANGUAGE', value: 'LANGUAGE'},
-        {text: 'ADM', value: 'ADM'},
-        {text: 'BRC', value: 'BRC'},
-        {text: 'FMO', value: 'FMO'},
-        {text: 'REQ', value: 'REQ'},
-        {text: 'OLD', value: 'OLD'},
-        {text: 'ALT1', value: 'ALT1'},
-        {text: 'ALT2', value: 'ALT2'},
-        {text: 'ALT3', value: 'ALT3'},
-        {text: 'NOTES', value: 'NOTES'},
+        {text: '频率', value: 'FREQ'},
+        {text: '广播机构', value: 'BRC'},
+        {text: '运行天数', value: 'DAYS'},
+        {text: '开始时间（UTC）', value: 'STRT'},
+        {text: '结束时间（UTC）', value: 'STOP'},
+        {text: '语言', value: 'LANGUAGE'},
+        {text: '功率（kW）', value: 'POWR'},
+        {text: '最大辐射角', value: 'AZIMUTH'},
+        {text: '发射站', value: 'LOC'},
+        {text: '目标服务区', value: 'ZONES'},
+        {text: '天线旋转角', value: 'SLW'},
+        {text: '天线代码', value: 'ANT'},
+        {text: '开始日期', value: 'FDATE'},
+        {text: '截止日期', value: 'TDATE'},
+        {text: '调制方式', value: 'MOD'},
+        {text: '天线设计频率（kHz', value: 'AFRQ'},
+        {text: '主管部门', value: 'ADM'},
+        {text: '频率管理机构', value: 'FMO'},
+        {text: '识别码', value: 'REQ'},
+        /*{text: '旧数据', value: 'OLD'},
+        {text: '备选频率1', value: 'ALT1'},
+        {text: '备选频率2', value: 'ALT2'},
+        {text: '备选频率3', value: 'ALT3'},*/
+        {text: '备注', value: 'NOTES'},
       ],
       jsonA21: [],
       jsonAdmin: [],
       jsonBroadcaster: [],
       jsonSite: [],
-      broadcaster: 'All',
-      language: 'All',
+      broadcaster: 'China National Radio',
+      language: 'Zho',
       freq: -1,
       inputFreq: '',
-      fiveHz: false,
+      fivekHz: false,
       disableApplyBtn: true
     }
   },
@@ -103,7 +103,7 @@ export default {
       })
       if (this.freq !== -1) {
         arr = arr.filter(radio => {
-          if (this.fiveHz) {
+          if (this.fivekHz) {
             return parseInt(radio.FREQ) <= this.freq + 5 && parseInt(radio.FREQ) >= this.freq - 5
           } else {
             return parseInt(radio.FREQ) === this.freq
@@ -167,12 +167,12 @@ export default {
       }
       if (!Number.isInteger(parseInt(input))) {
         this.disableApplyBtn = true
-        return 'FREQ must be an integer'
+        return '请输入整型数'
       }
       let num = parseInt(input)
       if (num < 0 || num > 30000) {
         this.disableApplyBtn = true
-        return 'FREQ must be in 0~30,000'
+        return '频率必须位于0-30000'
       }
       this.disableApplyBtn = false
       return true
